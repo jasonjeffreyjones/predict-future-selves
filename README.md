@@ -2,7 +2,7 @@
 
 Can we predict how people will describe themselves one year in the future?
 
-This repository contains a small longitudinal prediction task. Each case contains a person's 2024 response to the Twenty Statements Test. The challenge is to predict that same person's 2025 response.
+This repository contains a small longitudinal prediction task. Each case contains a person's 2024 response to the [Twenty Statements Test](https://soci101.org/applications/twenty.html). The challenge is to predict that same person's 2025 response.
 
 You may use AI. You may use simple rules. You may use statistics, language models, social science theory, vibes, or careful reading. The point is to compare approaches to predicting continuity and change in self-description.
 
@@ -39,8 +39,9 @@ Your CSV should contain exactly two columns:
 ```csv
 id,predicted_ts_2025
 test_0001,"I am..."
+```
 
-## Who? What? Why?
+## Who? What? WHY?
 
 I am [Dr. Jason Jeffrey Jones](https://jasonjones.ninja/).  I study human identity using computational social science.
 
