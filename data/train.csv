@@ -1,0 +1,2420 @@
+id,tst_2024,age_2024,sex_2024,ethnicity_simplified_2024,country_of_birth_2024,country_of_residence_2024,nationality_2024,language_2024,student_status_2024,employment_status_2024,fluent_languages_2024,tst_2025,age_2025,sex_2025,ethnicity_simplified_2025,country_of_birth_2025,country_of_residence_2025,nationality_2025,language_2025,student_status_2025,employment_status_2025
+train_0001,"I am a female
+Mother of two
+Love being a mother
+Married 35 years
+Have a great relationship
+Am very close to my children
+Am very close to my 2 grandchildren
+Am a little overweight
+Have a great personality
+Look good for my age
+Am very artistic
+Chose cosmetology as my profession
+Love to do household projects
+Am not a great housekeeper
+Love the beach
+I own 4 chickens as pets
+I have a cat
+Live in a suburb
+Have high school diploma
+Have a trade degree
+Am very loving and positive",58,Female,White,United States,United States,United States,English,No,Part-Time,English,"I am a mother
+I am a wife
+I am a nail tech
+I am an artist
+I am a grandmother
+I am lazy
+I am short
+I am smart
+I am a lover
+I am an animal enthusiast 
+I am a good friend
+I am empathetic
+I am overweight
+I am a reader
+I am a swimmer
+I am a walker",60,Female,White,United States,United States,United States,English,,
+train_0002,I am a woman. I am a wife. I am a mother. I am a loyal friend. I am a caregiver. I am a sister. I am a daughter. I am a person who likes to work out. I am a baker. I am an employee at a gym. I am a gardener. I am a houseplant enthusiast. I am someone who is shy. I am interested in politics. I am for womens rights. I am an ally to the LBGTQ community.  I am a reader. I am interested in crafts. I am a good neighbor. I am a rule follower.,61,Female,White,United States,United States,United States,English,No,,English,"I AM:
+a woman
+a mother
+a wife
+a daughter
+a daughter in law
+a gardener
+a baker
+a propagator
+a sister
+an aunt
+a friend
+a workout buddy
+a support person 
+an empathetic person
+accepting of all people person
+a supporter of democracy
+an outspoken proponent of gun control
+an animal lover
+a nature lover
+a runner",62,Female,White,United States,United States,United States,English,,
+train_0003,"I'm a very caresmadtic, fun loving, peaceful, trust worthy, friendly, loving, God fearing, risk taking, fast talking, loves drinking, hard worker, funny, caring, soft hearted, joyful, rich, classy, womanizing, hot blooded Male, Adventurer.
+,",53,Male,White,United States,United States,United States,English,No,Part-Time,English,Who am I I am a I am a creative spiritual being made in the image of God. A very creative person very spiritual person. Also very loving and kind and I love life and loves people,54,Male,White,United States,United States,United States,English,No,Part-Time
+train_0004,"I'm young, white, in good health. Active, smart, tasteful, and caring. I am in a relationship, happy, and loved. I have pets, love all animals, and have a good job. I like to help people, talk, and have fun. I am confident, strong, independent, and authentic.",22,Female,White,United States,United States,United States,English,No,Part-Time,English,"I am funny
+I am a night owl
+I am someone who is organized 
+I am honest
+I am quiet
+I am someone who believes in love
+I am short
+I am nice
+I am an introvert 
+I am someone who enjoys exercise 
+I am someone who enjoys food
+I am quiet
+I am independent 
+I am someone who listens to lyrics
+I am still a fast learner
+I am someone who enjoys nature 
+I am creative
+I am loyal
+I am calm
+I am someone who loves animals",23,Female,White,United States,United States,United States,English,,
+train_0005,"I am intelligent,smart,friendly, nice,confident,caring, happy, kind hearted,easy to get along with,motivated, loyal passionate and willing to help anyone that is in need.",53,Female,Black,United States,United States,United States,English,No,Full-Time,English,"I am a mother
+I am a fair person
+I am a kind person 
+I am an introvert
+I am a fan of music
+I am a curious person 
+I am a people's person
+I am a hardworker
+I am a confident person
+I am a christian
+I am an american
+I am a person who loves to cook
+I am a person who loves to help others
+I am a great thinker
+I am good at art
+I am good at cooking
+I am a person who love outdoors
+I am a person who can do many things
+I am a person who can be kind to otthers
+I am a gentle person",54,Female,Black,United States,United States,United States,English,,
+train_0006,I am unique. I am witty. I am a survivor. I am getting older. I am emotional. I am a big reader. I am a dog lover. I am a wildlife lover. I am excited by nature. I am too thin. I am a heart attack survivor. I am not my mothers keeper. I am immature. I am grossed out by fish. I am sad. I am angry. I am divorced. I am a puzzle lover. I am unfiltered. I am progressive. I am able. I am a dreamer. I am a fantasizer. I am happy when alone. I am a lonely person. I am broken. I am afraid of the dark. I am hungry for new knowledge. I am free of drugs. I am free of abuse. I am a hiker.,52,Female,Mixed,United States,United States,United States,English,No,Full-Time,English,"I am a mother first.  I am creative. I am unique.  I consider myself weird.  I am silly often. I am a big believer in karma.  I am introverted and shy. I am analytical.  I am native american. I am a romantic.  I am a barefoot hippie. I am a classic rock fan. I am a cheerleader for strangers. I am a safe space for lgbyq kids. I am dark. I am a conflicted daughter.  I am disappointed in cruelty.  I am a animal rights advocate.  I am a rape survivor, domestic abuse survivor,  and a childhood abuse survivor. I am a small lady. I am angry liberal. I am a individual.",53,Female,Mixed,United States,United States,United States,English,,Full-Time
+train_0007,I am a single father of two. I am a professional violinist. I am a teacher and a public school orchestra for over 24 years. I am someone who believes in honesty. I am a person who loves classical music. I'm a person who loves the '80s. I'm a person who loves to cook. I love spending time with my family. I am someone who loves to travel to remote places. I am extremely spontaneous. I love to shop all by myself. I am a collector of various colognes and perfumes. I am a Christian. I do Uber driving as a side hustle. I love going to New York City. I had an extremely rough divorce but now I'm in a fairly stable relationship. My children mean more to me than anything. I love God. I love to hang out with my friends. I am somebody who prefer spending time by themselves.,49,Male,White,United States,United States,United States,English,No,Full-Time,English,I am a Christian. I am a father of two children. I'm a divorced man who's in a monogamous relationship. I am a musician and violinist. I'm a person who loves ethnic food. I am from a small rural town. I identify as a man. Identify as heterosexual. I am of owner of one pet a cat. I love horror movies. I love to travel. I love meeting new people specifically from small neighborhoods. I live in a house. I have parents that are still alive. I love pizza and chicken wings. I love binge watching TV. I love sleeping with a fan on. I love perfume. I collect perfume and I have over 200. I love incense and burning it each day. I love the color yellow and have so many things in that color. I love to write horror fiction.,50,Male,White,United States,United States,United States,English,No,Full-Time
+train_0008,"I am a man, husband, brother, son. I am american. I am east coast. I am philly. I am a nerd, geek, weirdo, outcast. I am the problem, the liar, the manipulator, the thief, the criminal, the felon, the addict, the alcoholic, the lost man. I am an example of positive spiritual progress",31,Male,White,United States,United States,United States,English,No,Full-Time,English,"Recovering addict
+Recovering alcoholic 
+Computer nerd 
+Kind 
+Helpful
+Fun
+Knowledgeable
+Determined
+Intelligent 
+People person
+Leader
+Friend
+Brother
+Son
+Husband
+Lover of learn
+Dog dad
+Amazing cook
+Scooter enthusist
+Researcher
+Gamer",33,Male,White,United States,United States,United States,English,No,
+train_0009,"Who am I?
+1. A woman
+2. A middle aged woman
+3. A Jewish woman, albeit a secular Jewish woman 
+4. A Southerner and a Native New Yorker, both are very much a part of me, I have spent 90 percent of my life in the South
+5. I am bipolar. 
+6. I am a survivor of rape and molestation. The first time happened when I was 4, the last time was in my 30s.  A cousin, a friend of my family, boys from my  high school, a guy in my dorm  a guy I met at a bar and  roofied me, a guy I met at a party, a physical therapist. my friend's dad... I am certain I have forgotten some
+7. I am disabled. See above. I also have ADHD I could give a shit about it tbh, I have bad anxiety
+8. I am a writer. 
+9 I do opiatesI do what they call in street slang ""chip"" -i don't do it daily. 
+10. I am a survivor of homelessness and now I am agorphobic. I fear loss o what I have
+11. I was told I was ""gifted""  Perhaps.  My IQ was very high
+12. I hid my trauma and proceeded to sabotage everything
+13 At 40 I got help, finally. It took 7 hospital visits to get there. It may not sound like I am doing well, but I am, actually. I am making progress and I love my therapist and doctor. it just took me a long time
+14 former party girl/socialite 
+15 I am loyal to my own detriment
+16 I lam a damn good cook
+17 I am funny. So I have been told but stage fright. I think I prefer the typewriter
+I18. I am a burner of bridges. .. I have had numerous opportunities to get my work published by people you may have heard of
+19.  I am the partner of a musician. he is also bipolar and funny and smart. we are the parents of cats
+20. I am hopeful today  some days I am miss doom but I still think the best is up ahead I didn't find my soulmate until I was fourty I think success is just also going to be a late.",55,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"1. I am a woman
+2. I am American
+3. I am Jewish, Ashkenazim
+4. I am not religious, just secular
+5. I am Italia-America, Polish and Russian
+6. I am a Southerner 
+7. I am native new yorker
+8. I am bipolar
+9. I am disabled
+10 I am a survivor of molestation
+i11. I am a survivor of rape and gang rape
+12. I am a short
+11. I am hilarious
+12. I am assertive
+I3 I am gen x
+14 I am well read
+15 I am gifted
+16 I am a rock n roller
+17 I am a writer
+18 I am a humorist
+19. I am neurotic
+20 I am ill tempered",56,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0010,"I am a sister
+I am a daughter
+I am a student
+I am a singer
+I am a musician
+I am a Christian
+I am African
+I am a granddaughter
+I am a girlfriend
+I am a sister-in-law
+I am an aunt
+I am happy
+I am funny
+I am easily amused
+I am sensitive
+I am a reader
+I am a friend
+I am fashionable
+I am creative
+I am smart",26,Female,Black,United States,United States,United States,English,Yes,Other,English,"I'm intelligent, funny, creative, artistic, tall, daughter, sister, friend, a student, responsible, studious, shy, ambitious, outgoing, extroverted, happy, enthusiastic, thoughtful, helpful, and resourceful.",27,Female,Black,United States,United States,United States,English,,
+train_0011,"Male, old, white, married, happy, gray,  jovial, fun, slow, talented, witty, funny, sad. Morose, wicked, dangerous, honest, dishonest, respectful, worshipful",65,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am 67 yrs old, a white man that is 5 feet 9 inches tall and weighs 202 lbs. I'm married for 46 yrs to one woman. No children. I worked for the same company for 48 yrs before retirement at the age of 64. I like to travel and ride my bike in the afternoon.",67,Male,White,United States,United States,United States,English,No,
+train_0012,"African American, female, late fifties, Veteran. I enjoy watching true crime documentaries and listening to true crime podcasts daily. I love animals and I have an 18 y/o shihtzu who I consider my four-legged son. I walk everyday at least 20 minutes or more to try and stay in shape. I enjoy nature and people watching.",58,Female,Black,United States,United States,United States,English,Yes,Part-Time,English,"I am a single Back woman
+I am a Sister
+I am Aunt 
+I am a Friend
+I am a Godmother.
+I am a Navy veteran
+I am a hard worker, fun but also sometimes introverted and love my me-time.
+I love cooking and entertaining at home
+I am a lover of mystery novels
+I love watching True crime documentaries
+and I love animals.",59,Female,Black,United States,United States,United States,English,No,Part-Time
+train_0013,"I am a knitter.
+
+I am a homemaker. 
+
+I am a kind and compassionate person. 
+
+I am pretty smart. 
+
+I am a gamer.
+
+I am a wife. 
+
+I am enthusiastic.
+
+I am loud. 
+
+I am creative.
+
+I am musical. 
+
+I am queer. 
+
+I am a DM for D&D. 
+
+I am a loving pet owner. 
+
+I am monogamous.
+
+I am obsessed with paddle boarding. 
+
+I am someone who is in recovery from trauma. 
+
+I am passionate about social justice. 
+
+I am neurodivergent. 
+
+I am an introvert.
+
+I am kind of a nerd.",33,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I'm a fiber artist
+I'm a good writer
+I'm a dog owner
+I'm a wife
+I'm a homemaker
+I'm a paddleboarder
+I'm a yogi
+I'm a good friend
+I'm easily irritated
+I'm a passionate person
+I'm a nerd
+I'm a reader 
+I'm an oldest daughter
+I'm an adhder
+I'm sober
+I'm generous
+I'm thoughtful
+I'm an advocate for the rights of children
+I'm anti-racist
+I'm detail oriented",35,Female,White,United States,United States,United States,English,No,
+train_0014,"I am a father. 
+I am a husband. 
+I am a worker. 
+I am a lover. 
+I am a fighter. 
+I am a hero. 
+I am a person. 
+I am strong. 
+I am unwavering. 
+I am unstoppable. 
+I am invincible. 
+I am the greatest. 
+I am the toughest. 
+I am the best all around. 
+I am the star of everything 
+I am the all mighty. 
+I am the greatest ever. 
+I am a human. 
+I am a sound mind.",39,Male,White,United States,United States,United States,English,,Due to start a new job within the next month,English,I am a husband. I am a father. I am a worker. I am a kind person. I am a protector. I am a lover. I will be a fighter if needed. I am an animal lover. I am a hero. I am a Catholic. I am a slayer. I am a needed. I am a goal setter. I am a person of time. I am a getter. I am a football lover. I am a fisher. I am an eater. I am a baseball lover. I am a lover of food. I am a beer drinker. I am an employee.,41,Male,White,United States,United States,United States,English,,
+train_0015,I am me. I am strong. I am intelligent. I am smart. I am understanding. I am here. I am honest. I am straightforward. I am aware. I am alive. I am breathing. I am warm. I am conscious. I am lonely. I am alone. I am thoughtful. I am sleepy. I am conscientious. I am feeling. I am emotional.,47,Female,White,United States,United States,United States,English,No,Part-Time,English,"I am a strong person.
+I am a creative person.
+I have survived many stressful events.
+I am sometimes an optimist and sometimes a pessimist.
+I like to be outdoors in the nice weather.
+I also enjoy cold weather activities.
+I feel best when the sun is shining.
+I appreciate looking at works of art.
+I think animals are fascinating.
+I wish I would've learned more as a child.
+I like to stay busy.
+I believe movement is imperative to healthy aging. 
+I don't always do well multi-tasking.
+I love learning new things.
+I find history very interesting.
+I am able to problem solve when faced with a dilemma.
+I am a quick learner with many things.
+I like using my imagination.
+I am fun to be around.
+Sometimes I like to be alone.",48,Female,White,United States,United States,United States,English,No,
+train_0016,I am an average person with a myriad of experiences behind him who's trying to do his best,48,Male,Other,United States,United States,United States,English,,,English,"somewhat tall
+dad bod
+older
+creative
+an artist
+a dreamer
+carer of animals
+a single dad
+a fan of hip hop
+a fan of punk
+a fan of Alternative
+Extremely liberal
+An Atheist
+a lover of nature
+Gen X
+complicated
+somewhat intelligent, but not really
+unlucky
+a decent cook
+somewhat nostalgic",49,Male,Other,United States,United States,United States,English,No,Part-Time
+train_0017,I'm a guy who is trying to find himself. I'm a person who has lots of ideas but cannot put them together. I see a lot of opportunities passing by due to me being complacent and being scared of taking risks. I'm a shy guy but can be very sociable if i'm talking to you and feel verify comfortable. I believe there is a lot there for me.,31,Male,Black,United States,United States,United States,English,No,Full-Time,English,"Out of touch
+Excited 
+Lost
+Hustling 
+Finding myself 
+Easy going 
+Fun
+Quirky
+Gogether 
+Procrastinator 
+Stubborn 
+Shy
+Bored
+Lazy
+Tempered 
+Rich
+Helpful 
+Benevolent",33,Male,Black,United States,United States,United States,English,No,
+train_0018,"I am a single adult female living in the USA. I grew up in the country on a farm and have a four year college degree. I work at a university about a half hour drive from my home. I lived in many different places as an adult and recently set up my permanent home in my home town. I'm happy to be back in the town I grew up in, but think seeing the world was very important. I have always loved animals and have an animal type job as well as pet cats. I see my family almost every day, family closeness is important.",58,Female,White,United States,United States,United States,English,No,Full-Time,English,"I am a white american female. I am slightly past middle age and own my home in the country. I never married and never had children. I have worked all my life, as a child on the family farm and as a teenager and adult in many varying occupations. I love peace and quiet and being in nature. I like to take an early morning walk and photograph plants, insects, and scenery. I enjoy feeding wild birds, hummingbiirds in summer and varying birds in winter with seeds. I have always loved animals and have owned dogs, cats, horses, fish, frogs, as well as cared for all types of farm animals.I live alone and prefer it that way, I appreciate the peace and quiet, and no one is messing with my stuff. I live next to my mother, brother, neice and her husband. I am glad to live close to family, but still have my own home to live in. I have a sweet tooth and lately have been eating fancy ice cream bars every day. I used to drink almost every day since I was a teenager, but stopped entirely last year. I do not miss alcohol at all and regret the damage done to myself over those years. I work full time at a university supporting the functions of a research department. I do feel appreciated there and feel I am making a positive difference to the daily operations. I hope to retire in a few years and take on some part time work closer to my home. I have worked at the same institutiion for almost twenty years.",59,Female,White,United States,United States,United States,English,No,Full-Time
+train_0019,"I am a man.  I am in my 60's.  I am a husband, a father, and the son of my parent.  I am a keeper of animals.  I am a high functioning person with Asperger's.  I am a very good chess player.  I have many skills.  I have founded companies:  a software company, and a restaurant.  I'm a very good cook.",63,Male,White,United States,United States,United States,Lithuanian,No,Full-Time,"English, Lithuanian","Husband
+Father
+Created by God
+Believer in God
+Engineer
+manager
+Intelligent 
+Curious 
+Focused
+Doer
+Driven",64,Male,White,United States,United States,United States,Lithuanian,No,Full-Time
+train_0020,"A man.
+Masculine based on cultural narratives in film and both Latin and American culture.
+I believe in doing the right thing.
+A man's word is his bond.
+Speak the truth always.
+Medium height and weight.
+Finder of enjoyment in various cultures.
+Lover of Chinese food.
+Passionate lover.
+An old-fashioned romantic.
+I open doors for women.
+I earn my keep.
+I care for myself.
+I believe in true love.
+I don't steal.
+My appearance reflects me.
+I want to contribute to society.
+Superheroes are role models.
+I believe the greatest strength comes from within.
+Water seeks it's own level.",65,Male,Other,United States,United States,United States,English,No,Part-Time,English,"A human being
+A man
+in my later years
+creative in many ways
+enjoy cooking
+an avid reader
+Of hispanic heritage
+proud of my American nationality
+humbled by my culture's flaws
+a good listener
+respectful of other cultures
+always ready for a fun time
+empathetic of the suffering of others
+Some who experienced much loss
+the last of my immediate family
+spiritual
+less than my full potential
+a failure at times
+hopeful of the future
+physically ill",66,Male,Other,United States,United States,United States,English,No,Other
+train_0021,I am a mother. I am a daughter. I am a grandmother. I am an employee. I am kind. I am caring. I am hard working. I'm artistic. I'm funny. I'm a friend. I love animals. I'm older. I love music. I am a person who loves nature. I love Halloween. I live in the south. I love fall and winter. I'm easy going.im loving. I'm careful. I'm unselfish.,58,Female,White,United States,United States,United States,English,No,Full-Time,English,"Who am I? I'm loving, caring, expressive, artistic. I love animals and I help local animal rescues.  I'm a mother, daughter, grandmother and friend. My family is very important to me as well as my relationships with my friends. I'm a dog groomer and I love transforming the look of people's pets. I've dealt with a lot of pain throughout the years, I've been divorced twice.",60,Female,White,United States,United States,United States,English,No,Full-Time
+train_0022,"I am a software developer.
+I am a university  undergraduate.
+I am a son.
+I am a child of my mother.
+I am a nephew.
+I am someone's cousin.
+I am an insightful person.
+I am a game enjoyer.
+I am someone who enjoys technology.
+I am someone who enjoys learning new things.
+I am someone who thinks in terms of the bigger picture.
+I am someone who is good at reading between the lines.
+I am someone who works out.
+I am someone that has a sense of discipline.
+I am a guy.
+I am a human.
+I am someone with a computer science degree.
+I am someone who can trust their gut feelings and have them be correct more than half of the time.
+I am someone who has moved to a different state at one point in their life.
+I am a friend.",32,Male,Other,United States,United States,United States,English,,,English,I am a University graduate. I am someone who's good with tech. I am someone's son. I am someone's cousin. I am someone's nephew. I am someone who likes tinkering with new technologies. I am someone who enjoys playing games. I am a human being. I am someone who struggles with taking the first step but once I do I see whatever it is that I'm doing through to completion. I am someone who values promises. I am someone who is typically very forgiving. I am someone who usually gives others the benefit of the doubt. I am someone who likes to help others. I am someone who likes money. I am a person who hates being betrayed. I am someone's grandchild. I am an independent. I am someone who's just trying to get by in life just like everyone else. I am someone who has knowledge of sports because I used to participate in them but I don't participate in them anymore. I am someone's friend.,34,Male,Other,United States,United States,United States,English,,
+train_0023,"1.  i'm an author, a writer
+2.  i'm a philosopher, i have a formal philosophy, with an ethics
+3.  i'm a poet
+4.  i'm the son of my mother
+5.  i'm the sone of my father
+6.  both my parents are dead, and that has changed me and is part of me now
+7.  i have five dogs, and i love them dearly
+8.  i am worried about the future, and that is a part of me
+9.  i think about the past and try to find out where i should cut the line that makes me what i am now, and what i will be shortly
+10.  i'm old and i'm tired of the shit
+11.  but i understand the shit, including what i used to put out, what was an expression of me
+12.  i am amazed at what i think i understand about the universe and the world as i now see it, and what i am in that context
+13.  i am an atheist and not an anti-theist; and this means that i believe responsibility devolves on the people in this world, and that justice only comes among us, the people
+14.  i am one of the people
+15.  i am curious to know more about the universe, its ways and means and physics and mathematics and logic
+16.  i am to some degree a mathematician, and a logician; the two areas are not exactly the same
+17.  i am remote from most people, and i am comfortable with that now
+18.  i try to have some forgiveness in me for the slights and arrows i have suffered, but i know that that only goes so far - i am not the most forgiving person, and i'm fine with that
+19.  i am still angry to some degree, the anger of adolescence has followed me even to the now
+20.  i am a musician",64,Male,White,United States,United States,United States,English,,,English,"i am a man, 65 years of age.  i am educated with a background in English, Music, and Psychology.  i have a formal philosophy i have been working on for the past 50 or so years and i believe i might actually get it to the finish line while i'm still alive - axioms and applications, to some degree.  if not, then i'll finish it while i'm dead.  that should take a while.  also, i have a sense of humor.  somewhere.  i put it around here, somewhere.  this is the position of the 10th question:  i have five dogs, except that my sister actually has them.  i love my dogs very much.  i still love my kid sister very much, even though she stabbed me in the back and took my home and now i'm living in my car.  i was our mother's caregiver for the last five years of her life.  she had alzheimer's.  day-in-and-day-out, year after year, and we had all agreed that i would live out my life caring for my mom's survivingf dogs, and the two my sister (yes, still that sister) would bring me to foster but which never got away.  i'm just trying to live right now, looking for yeat another place to sleep because it's not lawful in many places to sleep in your car, walmart's included, nowadays - it's the municipality you're in and the state you're in, and none in the union are kind to the homeless, i have found out.  that's probably about 20 questions, if you count the substantive phrases and clauses.",65,Male,White,United States,United States,United States,English,No,Other
+train_0024,"I am a realtor
+ I am an uncle
+I am a son
+I am a brother
+i am a Christian
+I am a Democrat
+I am an American
+I am a New Yorker
+I am a sports fan
+I am a knick fan
+I am a Dodger fan
+I am a packer fan
+I am an organic grower
+I am an organic eater
+I am a reader of mysteries
+I am a fan of tech
+I use AI
+I am an exerciser
+I am a climate worrier",70,Male,White,United States,United States,United States,English,,Full-Time,English,"worker, realtor, son, godfather, brother, boyfriend, catholic democrat, consumer, player.
+watcher, sports fan, horse racing fan, gardener exerciser, driver, owner, swimmer, diligent, comedian",72,Male,White,United States,United States,United States,English,,
+train_0025,"I’m a young woman.
+A white woman.
+I’m a red head.
+I’m self disciplined.
+I’m an extrovert.
+I’m outgoing. 
+I’m funny.
+I’m like able.
+I’m different.
+I’m one of a kind.
+I’m well spoken.
+I’m also a hard worker.
+Im a critical thinker.
+I’m a problem solver.
+I’m an enthusiast.
+I’m happy.
+I’m sometimes crazy.
+I’m smart.
+I’m capable.
+I’m also rational.",24,Female,White,United States,United States,United States,English,No,Part-Time,English,"I am a red head.
+I have blue eyes.
+I am really pale.
+I’m a well educated woman.
+I am easy to get along with.
+I’m a good listener as well as a great friend.
+I’m a very giving person. 
+I am very adaptable.
+Also adventurous.
+Spontaneous but I try to be smart about it.
+I’m not one to make plans.
+I sometimes like to take risks but nothing that is too crazy.
+I catch on to learning new things quickly.
+I sometimes am funny.
+I have been told I’m too honest or sometimes come off rudely even though I don’t intend too.
+I’m not one to care about anyone else’s opinions.
+I am good hearted person.
+I go out of my way to help others.
+I always see potential in others.",25,Female,White,United States,United States,United States,English,No,Full-Time
+train_0026,"Smart, friendly, compassionate, calm, pleasant, nice, friendly, assertive, outgoing, respectful, reserved, peaceful, unassuming, liberal, helpful,determined, sensitive, inquisitive, intuitive, caring",59,Female,Black,United States,United States,United States,English,No,Full-Time,English,"Loving, caring, intuitive, knowlegable, loyal, dedicated, committed, brave, daring, introverted, assertive, passive, fighter, inquisitive, artist, healer, spiritual, religious, noble, thinker, learner, hard worker, free thinker, female, African-American, elder, short, plump.",60,Female,Black,United States,United States,United States,English,,
+train_0027,"I am kind. I am passionate about animal welfare. I am compassionate. I could be considered the ""bleeding heart"" type, so to speak. I am sincere. I am an introvert. I enjoy the simple pleasures in life. I do not consider myself an ambitious person but rather one who just simply seeks happiness and peace. I love to read and watch TV and movies. I can be indecisive. I am a bit disorganized. I am very self-critical. I can be self-conscious. I am a good listener. I can be impatient. I can be stubborn. I worry more than I should. I love deeply. I am empathetic. I am uniquely me, and I'm ok with that.",39,Female,White,United States,United States,United States,English,No,,English,I am an animal lover. I am a nature and wildlife lover. I am a peace seeker. I am a daughter. I am a sister. I am a daydreamer. I am a curious soul. I am a sensitive soul. I am a complex person who seeks to live a simple life. I enjoy the simple pleasures in life. I seek joy and gratitude in each day. I strive to be empathetic and compassionate. I love TV shows and movies. I love reading and being cozy. I love rainy days. I am okay with solitude. I am growing and changing. I seek purpose. I am faithful. I am stronger than I realize.,40,Female,White,United States,United States,United States,English,,
+train_0028,"Fun smart intelligent Christian grandma mom, aunt, loyal tall, old, hilarious, wrinkly, skinny, headachy, dodgers, lover, mystery book lover",63,Female,White,United States,United States,United States,English,No,,English,"I am a woman, mother, grandmother, Christian.  I am smart, kind, very funny and can crack anybody up.  I am an urbanite, I am also a small town girl.  I am suspicious, clever, and interesting. I am also, medium height, medium weight, I am older than dirt, but younger than Heaven. I am always happy, always smiling, and lastly, I am done,",64,Female,White,United States,United States,United States,English,,
+train_0029,"Black
+Male
+American
+Middle aged
+Anime fan
+Football player 
+Full time employee 
+Heterosexual 
+In a relationship 
+Some college
+Supervisor 
+Authentic 
+Humble
+Loving",34,Male,Black,United States,United States,United States,English,,Full-Time,English,"I am a black man.
+I am a recovering addict. 
+I am a son.
+I am a loving husband. 
+I am antisocial. 
+I am creative. 
+I am an anime nerd.
+I am prideful.
+I am logical.
+I am stoic.
+I listen more than I talk.
+I am true friend.
+I am a gun enthusiast.",35,Male,Black,United States,United States,United States,English,No,Full-Time
+train_0030,"A mom
+A teacher
+A woman
+American
+Bible believing 
+A grandmother
+Loving
+Professional
+Professor
+A wife
+Special
+Hard working
+Capable
+Enough 
+A Floridian
+Flawed
+Florida native 
+Honest
+Real
+Amazing",54,Female,White,United States,United States,United States,English,No,Full-Time,English,"I am a Christian. 
+I am a wife. 
+I am a mother. 
+I have 6 kids.
+ I have adopted 3 kids. 
+I have 3 biological kids. 
+I work in education. 
+I am female. 
+I am a professor. 
+I have a masters degree. 
+I live in the US. 
+I live in Florida. 
+I care about people. 
+I am kind
+I like to exercise
+I like to cook
+I have 2 dogs. 
+I like to travel to different countries 
+I like to learn about other cultures",55,Female,White,United States,United States,United States,English,No,Full-Time
+train_0031,"I am very creative and resourceful
+I love to read thriller and sci-f books
+I am sometimes very shy and other times very bold.
+I am getting older but I do not feel that old
+I have always been very short and when I was young it bothered me but not any more.
+I have had very short straight hair 90% of my life then in my fifties it started to grow and became curly.
+I am part Indian but also part German
+I have skin that gets very dark in the summer.
+I love to be outdoors gardening.
+I love to play softball and volleyball.
+I am very religious I totally believe in Jesus and God
+I am terrified of small bugs like earwigs and I do not like cicadas 
+I hate to drive especially at night and I can not drive for more than 2 hours
+I love my family above all else.
+I love this planet it is so incredibly beautiful
+I love working on computers that is what I do for a living
+I love playing with my dog she knows many different tricks
+The holidays are my favorite time of hear
+I hate winter with a passion except for the holidays
+I have a hobby making miniature gnomes and ghost mushrooms.",61,Female,White,United States,United States,United States,English,No,Part-Time,English,"I am currently retired from full time work.
+I love working with computers.
+I have 2 kids.
+I like reading.
+I like swimming.
+Florida is my favorite state.
+I love gardening.
+I enjoy working with kids.
+I believe in Jesus.
+I have 2 grand kids.
+I hate winter.
+I have a super smart dog
+I live in a very cold state.
+I eat mostly healthy food.
+My favorite food is salad.
+I am allergic to cats.
+I have a very large yard.
+I have a small house.
+I like working with refinishing furniture.",62,Female,White,United States,United States,United States,English,,
+train_0032,"I am a fair-minded, compassionate person who believes in every individual's rights and freedoms. A college graduate, I have studied and worked with many different personality types. While I don't believe in judging a book by its cover, I act on logic, common sense and my intuition when navigating through a situation, relationship, job or personal issue. It is my firm belief that every person has the potential for doing good, although someone might have unsolvable problems in their life. I have a very strong sense of what is morally right and wrong. My faith has guided me through difficult times. It is important to live in the moment but still have an open mind toward the future. I'm not the kind of person who is vengeful even when a wrong is directed toward me.",71,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"People who know me well will say I'm always truthful and treat others the way I want to be treated. I am very patient and also persistent, not stopping to work on a job before it's completed. I'm not judgmental and believe in giving everyone an equal chance to succeed. I believe in respecting others and being decent at the very least. My favorite hobbies include making things to give to others, including charitable donations, spending time with family and wishing the best for everyone.",73,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0033,"Scientist
+Engineer 
+Musician
+Husband
+Father
+Traveler
+Reader
+Golfer
+Boater
+Computer Expert
+Liberal
+American
+Hiker
+Scholar
+Lego enthusiast
+Drummer
+Percussionist
+Drum and Bugle Corps Enthusiast
+Blogger
+Web Page designer",61,Male,White,United States,United States,United States,English,No,Full-Time,English,"Father
+Husband
+Engineer
+Scientist
+Musician 
+World Traveler 
+Computer enthusiast
+Reader
+Drum and bulge corps enthusiast
+Sailer
+Swimmer
+Golfer
+Gourmand 
+Skeptic",62,Male,White,United States,United States,United States,English,,
+train_0034,"I am a 34 year old, married woman. I have three children and two big dogs, all of whom I adore. I enjoy cooking, baking, working out, walking, jogging, watching movies and being by the water. I love going to the lake, mountains and the beach. I enjoy camping and hiking. I am currently a stay at home Mom and I really love it. I used to work at a large hospital as a Clinical Dietitian. I love summertime. I love iced coffee.",34,Female,White,South Africa,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am a mother to three adorable children. I am a registered dietitian. I am kind, smart, compassionate and loyal. I like to read. I grew up in South Africa. I went to an all girls high school. I like to go on walks. I love dogs. I love chocolate. I love coffee. I love the color green. I love the beach. I would love to own a house on the beach. I like to swim. I recently started playing pickleball. I love being a mom. I have been married for eleven years. I love where I live. I love watching the show Survivor. I do not like being cold.",36,Female,White,South Africa,United States,United States,English,,
+train_0035,"I am a Hispanic man. I am a teacher. I teach immigrants from all over the world. I teach them English as a second language. I am a patient person. I am also a kind individual. I am the second oldest son of a large family of seven siblings. As a child, I grew up in Cuba. I learned to speak English by myself. I remember collecting old books in English. I would read them all. i also listened to American radio stations where I would learn English and get information on US events. These activities prepared me for my life in this country. Eventually, I was able to migrate to the US on an immigrant visa. Now I am a naturalized US citizen. I can't believe I am living in the land of the free. I have been living in America for 23 years now. It almost seems like I was born here.",70,Male,Mixed,Cuba,United States,United States,,,Part-Time,"English, French, Spanish","I am a man. I am Hispanic. I am happily married. I was born in Cuba. I am a US citizen now. I am a teacher. I teach English as a second language. I am loyal. I am sincere. I am a caring person. I am a man of simple habits. I like to exercise. I like to eat healthy food. I am an elderly person. I take care of my health. I value my personal independence. My social interaction is rich. I also like to be informed. My political affiliations are based on my conservative beliefs. I am not very religious, but I believe in God.",71,Male,Mixed,Cuba,United States,United States,,,
+train_0036,"I descri e myself as being a mother, wife, teacher, and friend. I am loyal, honest, and steadfast. I am true to myself and give others the benefit of the doubt, so I'm sympathetic and understanding. I have compassion for others. I am stubborn and sometimes unforgiving. I am controlling in most situations and have a horrible temper. I suffer from bouts of depression and anxiety. I love people but can't stand being around them for too long.",47,Female,White,United States,United States,United States,English,No,Full-Time,English,"I am an organism living in this universe. I am a human living on the planet Earth, but I do not allow my nature and instincts to rule me. I am compassionate towards other's plight and have a desire to alive suffering and nurture peace. I am a woman. My womanhood defines me and is part of my nature of which I do not fight. I am a mother. Im a protector of my children. I am an advocate for my children, their biggest supporter, and the person who lo es them most. I am a giver but I can be a taker. I love people but lack patience. I'm a teacher and serve a higher purpose. I'm an investor in the future of society. I  am a lover and a hater. I am a fighter for things that matter and can be petty at the same time. I am full of flaws, but have the potential for perfection.",48,Female,White,United States,United States,United States,English,,
+train_0037,"I am a father
+I am a husband
+I am a brother
+I am a friend
+I am a hard worker
+I am compassionate
+I am philanthropic
+I am an athlete
+I am hard on myself
+I am driven
+I am a person who expects greatness from everyone.
+I am loyal and expect it from others
+I am helpful
+I am grateful
+I am understanding
+I am gracious
+I am a thrill seeker
+I am a risk taker
+I enjoy pets
+I enjoy sports",45,Male,White,United States,United States,United States,English,No,,English,"strong
+brave
+smart
+creative
+loyal
+honest
+funny
+active
+hungry
+driven
+empathetic
+attractive
+fit
+unique
+left handed
+awesome
+nimble
+protective
+longing
+crazy",46,Male,White,United States,United States,United States,English,,
+train_0038,"Middle aged white woman
+Arizona resident
+high school graduate
+cat lover and caretaker
+disabled
+have bipolar disorder 2
+obese
+working on mental health on my own
+avid chatGPT user
+tarot card reader
+fan of fantasy and mystery novels
+former driver who wants to get a drivers license again
+healthiest when I eat very low carb
+wears glasses and worried about vision health
+struggle with high blood pressure
+not so much a democrat as anti-Trump/maga
+casual gamer, primarily LOTRO
+brown greying hair
+brown eyes
+current cat is a fluffy grey tabby male",60,Female,White,United States,United States,United States,English,,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"1-61 year old
+2-Cat lover
+3- I live in the the Southwest for the past decade
+4- Struggle with mental health
+5- Have bipolar 2
+6- Have CPTSD
+7- Very much a loner
+8- Female
+9- LOTRO player
+10- Daily chatGPT user
+11- American
+12- plays mobile games through paying sites like KaskKick
+13- on Disability
+14- earns grocery money through survey sites and game sites
+15- doesn't drive
+16- enjoys crafty hobbies
+17- has extensive self improvement program that's finally showing results
+18- eats very low carb (keto/carnivore)
+19- walks to grocery store and other tasks
+20- Near sighted and age-related eye issues",61,Female,White,United States,United States,United States,English,,
+train_0039,"I am a father
+I am a considered and kind person
+I am conservative
+I am loving husband
+I am a hard worker
+I am responsible and consistent
+I am republican
+I am an animal lover
+I am a introspective but cheerful person
+I am self-confident person
+I am a great cook
+I am a loving father 
+I am a proud American 
+I am a proficient IT worker who loves his job 
+I am a person who likes to volunteer 
+I am fortunate for the family I have 
+I am a technology enthusiast 
+I am good at sports 
+I am a mentally and physically healthy person
+I am someone who likes to travel and try new experiences
+I am a music and movie avid lover",38,Male,White,United States,United States,United States,English,,,English,"I am a man.
+I am a father.
+I am a person who appreciates tradition.
+I am a man who is proud of himself and what he has done.
+I am an animal lover.
+I consider myself a Republican and a conservative.
+I am respectful of the history of where I belong. 
+I am someone who is passionate about technology.
+I am someone who values his work.
+I value my family above all else. 
+I am someone who believes deeply in personal responsibility.
+I am a man who enjoys quiet moments to reflect on life.
+I am someone who values freedom of expression and speech.
+I am a believer in hard work as the path to success.
+I believe in the Constitution.
+I believe in God. 
+I am a lover of simple pleasures. 
+I am a man of solid routines.
+I am a thinker who values critical analysis and logical debate.",40,Male,White,United States,United States,United States,English,,
+train_0040,"I am a human.
+I am alive.
+I am a musician.
+I am a son.
+I am a grandson.
+I am childless.
+I am alone.
+I am surrounded by friends and family.
+I am complex.
+I am simple.
+I am thoughtful.
+I am friendly.
+I am a godfather.
+I am an American.
+I am a citizen of the world.
+I am sometimes struggling.
+I am often light and free.
+I am in mourning.
+I am in celebration.
+I am here.",45,Male,White,United States,United States,United States,English,No,Full-Time,English,"I am a human.
+I am a man.
+I am an American.
+I love my friends and family.
+I try to do the best that I can.
+I endeavor to harm no one.
+I care deeply about others.
+I'm in love with art.
+I'm a musician.
+I believe video games should generally be considered art.
+I struggle with the aging process.
+I feel like a man outside of time sometimes.
+My dreams are filled with friends I've lost contact with and loved ones I've lost.
+I was raised Catholic, but don't know what to believe as an adult.
+I am of two minds about many things.
+I believe it is important to change your beliefs when presented with compelling evidence.
+I believe that caring for one another is invariably important and that sole belief is the one thing that can never change.
+I am my mother's son.
+I'm terrible at math.
+I'm quite adept with English.",46,Male,White,United States,United States,United States,English,,Part-Time
+train_0041,"I am a woman and I am 32 years old. I live in Texas. I am a social worker and a military spouse. I am a daughter, an older sister, and a dog mom. I am compassionate and curious. I am a good friend and a good listener. I am an exercise enthusiast and a rock climbing hobbyist. I am a night owl and a brunch lover. I am a musician and a lover of trying new recipes. I am a volunteer in my community. I am an avid reader.",32,Female,White,United States,United States,United States,English,No,Full-Time,English,"I am a woman
+I am 33 years old 
+I am a daughter
+I am a sister
+I am a spouse
+I am a student
+I am a social worker
+I am a dog owner
+I am an animal lover
+I am a pianist
+I am a motorcycle rider
+I am a hard worker
+I am a good friend 
+I am a Japanese food lover 
+I am a bookworm
+I am a protector
+I am a listener
+I am a survivor 
+I am a writer
+I am a Coloradan",33,Female,White,United States,United States,United States,English,,
+train_0042,I am an older male close to retirement. I have lived a wonderful life. I had had a job everyday of my life since I was 16. I believe in a strong work ethic and work responsibility. I believe you get what you work for and must understand delayed gratification to be successful. Nothing is handed to you and if it is you don't value it as much. NO one is entitled to success. It is a earned gratification that all Americans have the opportunity to achieve.,62,Male,White,United States,United States,United States,English,No,Full-Time,English,I am a diligent and ethically driven person. I take pride in all that I do to achieve the best results.,63,Male,White,United States,United States,United States,English,,
+train_0043,"I'm a female.
+I'm middle -aged.
+I'm a proud 9th generation Vermonter. 
+I'm disabled. 
+I'm queer, specifically lesbian. 
+I'm a professional musician. 
+I'm a songwriter and composer. 
+I'm a talented singer with a four-octave range. 
+I'm a pet owner. 
+I'm a big sister - the eldest of four. 
+I'm the daughter of a Vietnam veteran. 
+I'm a fat person. 
+I'm in a long-term relationship. 
+I'm physically disabled and have mobility challenges. 
+I'm a caregiver. 
+I'm a dreamer. 
+I'm very open-minded. 
+I'm a tall woman - 6'2"". 
+I'm a person with mental health diagnosed. 
+I'm a person living with chronic pain.",45,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking),"English, Spanish","I am female
+I am disabled 
+I am queer
+I'm a 9th generation Vermonter
+I'm from the historic town of Bennington
+I'm a singer 
+I'm creative
+I'm unusually tall
+I'm taller than the average male
+I'm musically inclined
+I'm an artist 
+I'm a writer
+I'm intelligent 
+I'm very spiritual 
+I'm a big sister 
+I'm a Great Aunt
+I'm a lover 
+I'm grateful
+I'm powerful 
+I'm unique",47,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0044,"I am a father. 
+
+I am a husband. 
+
+I am a brother. 
+
+I am a son. 
+
+I am an American. 
+
+I am a male. 
+
+I am an adult. 
+
+I am a musician, I like to play bass guitar. 
+
+I am employed full-time. 
+
+I am family-oriented. 
+
+I am a Midwesterner. 
+
+I am a Chicago sports fan. 
+
+I am a college graduate. 
+
+I am a home owner. 
+
+I am usually calm. 
+
+I am a fan of comedies. 
+
+I am a listener of many different kind of music. 
+
+I am color blind. 
+
+I am tall. 
+
+I am of European descent.",35,Male,White,United States,United States,United States,English,No,Full-Time,English,"A father
+
+A husband
+
+A son
+
+A Midwesterner
+
+A bassist
+
+A baseball coach
+
+A full-time worker 
+
+A fan of Chicago sports
+
+A remote worker
+
+I enjoy summer
+
+I am tall
+
+I am blond
+
+I am male
+
+I am an adult
+
+I am a college graduate
+
+I am heterosexual
+
+I am active
+
+I enjoy video games
+
+I enjoy board and card games
+
+I am an investor",37,Male,White,United States,United States,United States,English,,Full-Time
+train_0045,"I’m a curious person
+I’m a lover of animals
+I prefer animals to people
+I love the outdoors 
+I’m a swimmer
+I’m my dog’s favorite person 
+I’m a lazy man
+I’m a good friend 
+I’m a decent cook
+I’m a bit of a hoarder
+I could be more organized 
+I’m fascinated by learning 
+I’m a lefty
+I’m planning Togo back to school 
+I’m not very sociable
+I’m not good with crowds
+I’m happiest out in nature
+I’m a lover of reptiles
+I’m the worst at housework 
+I’m a bookworm",72,Male,Mixed,United States,United States,United States,English,No,Unemployed (and job seeking),English,"I'm a good friend. I'm a lover of dogs and animals. I'm someone who worries about climate change. I'm perpertually immature. I'm a former student at Stony Brook. I am no longer in New York and miss it. I'm a constant reader. I'm an exercise fanatic whose lost his drive. I'm someone you can trust. I'm a good cook. I'm a good listener, sometimes. I'm short and it bothers me. I'm not very fit right now and it bothers me. I like to smoke pot. I don't drink but have a bottle of rum in the kitchen just in case I change my mind. I'm a swimmer who loves pools and outdoor swimming. I'm a best friend to my dog. I'm widowed twice and miss having a human companion. I'm looking forward to finding a friend and companion. I'm a writer and aspiring artist.",73,Male,Mixed,United States,United States,United States,English,,
+train_0046,"I am:
+Intelligent
+Caring
+Loved
+Successful
+Creative
+Analytical
+A family man
+Sarcastic
+A good cook
+A bbq enthusiast
+A hard worker
+A dance dad
+A good friend
+Observant
+Futuristic
+Forever late
+Independent
+Emotionally connected
+Perseverant
+A good brother
+A good son",35,Male,White,United States,United States,United States,English,No,Full-Time,English,"I am a father
+I am a husband 
+I am an intellectual 
+I am a good debater
+I am good cook
+I am resilient
+I am creative
+I am there for my kids
+I have a strong faith
+I am empathetic
+I am strong
+I am a good learner
+I am not great at apologizing 
+I am a novice gardener
+I am a good worker
+I care about my community
+I am independent
+I am a good so 
+I am a good friend
+I am a savvy saver",36,Male,White,United States,United States,United States,English,,
+train_0047,Who am I? I am an artist. I am a musician. I am a song-writer. I am a son. I am a brother. I am an uncle. I am a gamer. I am a computer nerd. I am an animal lover. I am a movie enthusiast. I am a listener. I am a philosopher. I am a reader. I am a fashion guy. I am a thinker. I am a dreamer. I am tired of answering this question. :) I am a beach bum. I am a Disney Land junkie. I am a thrill seeker.,35,Male,Other,United States,United States,United States,English,No,Full-Time,English,"I am an artist.
+I am a free thinker.
+I am a healer.
+I am a problem solver.
+I am a creative person.
+I am a comedian.
+I am a gamer.
+I am a reader.
+I am a learner.
+I am a student.
+I am a teacher.
+I am a son.
+I am a brother.
+I am a family-oriented person.
+I am a people person.
+I am a talker.
+I am a listener.
+I am a movie enthusiast. 
+I am a loner.
+I am an outcast. 
+I am a musician.
+I am a song-writer.",36,Male,Other,United States,United States,United States,English,No,Full-Time
+train_0048,"I am a human.
+I am someone unique.
+I am my own guide
+I exist
+I am living just like everyone else
+I am someone who cares
+I want everyone to be happy
+I want to find meaning
+I want to know if meaning exists
+I am a real person
+I am someone that is trying to figure things out
+I am someone that is very anxious but cares
+I am someone that has a lot to learn
+I am someone who is constantly overthinking
+I am someone who doesn't know what they want, but wants to know.
+I am someone who is evolving
+I am someone who is trying to find the right thing.
+I am someone who enjoys gaming
+I am someone who wants to be on the right side of history
+I am someone who wants the best for people
+I am someone who is skeptical of people too
+I am someone who is just existing",27,Male,White,United States,United States,United States,English,No,Full-Time,English,"I am alive
+I am a person who's understanding
+I am someone who is nostalgic
+I am someone of ambition
+I am someone in need
+I am someone to someone 
+I am. 
+I am me, and thats ok
+I am learning
+I am living
+I am a gamer
+I am a runescape player
+I am someone who is interested 
+I am an anxious person
+I am an overthinker 
+I am my memories
+I am a friend
+I am a partner
+I am an animal lover
+I am unique
+I am real",28,Male,White,United States,United States,United States,English,No,Full-Time
+train_0049,"I am a creative, spontaneous person. The kind of person who would go on a adventure at the spur of the moment. I'm generous, I would give my last if I felt others needed it more. My niceness sometimes get mistaken for being a push over. I'm wholesome. I have values and morals. I'm an advocate for women's rights. I love hard and I stand firmly for what I believe in. I am outspoken and have no fear in speaking out on wrong doings. I am ME!",21,Female,Black,United States,United States,United States,English,Yes,Part-Time,English,"I am God fearing.
+I am Bold.
+I am resilient.
+I am blessed.
+I am hardworking.
+I am honest.
+I am trustworthy.
+I am direct.
+I am a social butterfly.
+I am dependable. 
+I am smart.
+I am kind.
+I am beautiful.
+I am smart. 
+I am ME.
+I am resourceful.
+I am a Christian.
+I am fearless.
+I am peaceful.
+I am creative.",23,Female,Black,United States,United States,United States,English,Yes,Part-Time
+train_0050,"1. I am a person
+2. I am creative
+3. I am complicated
+4. I am someone who cries a lot
+5. I am tall
+6. I am worn out
+7. I am a cosplayer
+8. I am a cat lover
+9. I am someone that likes to be boring
+10. I am not very good at cooking
+11. I am moderately active
+12. I am a middle child
+13. I am a decent gamer
+14. I am an over-achiever
+15. I am shy
+16. I am very anxious
+17. I am not who I use to be
+18. I am the same as I've always been
+19. I am an amateur writer
+20. I am not very good at describing who I am",23,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking),English,I am a young adult. I am struggling to figure out myself. I am struggling to figure out life. I am creative. I am scatterbrained. I am often consumed by my emotions. I am an avid music listener. I am not the person that I used to be. I am considered tall for my demographics. I am quiet. I am shy. I am lonely. I am not great at explaining things. I am tired. I am not employed. I am a great disappointment to the people around me. I am confused. I am running out of ways to self-describe. I am mediocre at best. I am done with this.,24,Female,White,United States,United States,United States,English,No,Other
+train_0051,"I am a mother, wife, sister, daughter, cousin, aunt, foodie, hard worker, provider, creative, smart, blessed, happy, kind, caring, nurturing, saver, saavy, reader, and efficient.",43,Female,Asian,United States,United States,Vietnam,English,,Full-Time,English,"Who am I?
+
+I am a wife. I am a mother to two daughters. I am the cook in my household. I do half of the cleaning. I am Gen X, could be labeled as a Xennial. I am an Assistant Vice President at a bank. I like working with numbers. I like helping people. I like to craft. I like to quilt. I sell my crafts on Etsy. I enjoy the outdoors and like going to the beach with my family. I enjoy going out to restaurants. I look up recommendations on yelp. I enjoy watching tv and streaming services. I enjoy hanging out with my family and friends. I am more quiet and reserved than most. I grew up in California. I now live on an island in the Pacific Ocean. I am happy. I enjoy life.",45,Female,Asian,United States,United States,Vietnam,English,,
+train_0052,"I am an elderly woman who lives alone in Arizona.  I was divorced 22 years ago and never remarried.  I raised three children in a suburban environment.  I never worked more than part-time when my children were growing up. After I was divorced I went to school and got an Nursing degree in the 50's.  I worked as a Hospice Nurse for fifteen years which was very challenging but also rewarding.  I was diagnosed with lung disease when I was 55 years old and found that I had a genetic mutation for Cystic Fibrosis.  This explained and life long problem with a chronic cough and eventually difficulty breathing.  I am retired now and have a Doodle puppy that keeps me company.  I grew up in Florida and we moved to Massachusetts, and New York.  I worked in various offices as a secretary and eventually worked in medical offices in the front office.  I lived in New Jersey, Texas, Colorado, Minnesota, California, Arizona, Oregon and Washington.  I enjoy change and seeing new places. I have one grandchild who is 9 years old now and I spent a lot of time with him up until and year ago when I moved to Arizona.  My adult children live in three different states but I see them as much as possible.  I like to do craft projects and enjoy gardening. I like to read all kinds of books and always have since I was a child. I have a sister and a brother who live in Florida who I don't see very much.  My sister and I stay in contact through emails and phone calls.   I have 2 nieces and 1 nephew who live on the East Coast and don't see very much anymore.  My father was in the Navy during WWII but didn't see active service before the War ended.  My mother died when I was 23 years old and my father died when I was 30 years old.  I have a lot of cousins living in New England but haven't seen them since I was a teenager.  I like to walk with my dog and enjoy nature.  I really like Arizona because it is so diverse with climate, terrain, altitudes, and things to do with deserts and mountains. I am a Democrat and hope that our country to find peace whether it's together or living separately according to what people believe.  I wish for world peace. I love animals and have had many different pets in my life.  I would love to have a little farm with lots of animals but I'm afraid it would be too much work for me now.",70,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"elderly, introverted, thoughtful, curious, caring, helpful, withdrawn, discerning, healthy, careful, cautious, enjoys nature, likes art, likes photography, likes people, loves animals, peaceful, content, simple life, likes peanut butter, loves children, appreciates kindness, kind, spiritual, inspired, quiet, friendly, giving",71,Female,White,United States,United States,United States,English,,
+train_0053,"I am him. I am a caregiver, a man with purpose to take care of my family. I am who god wants me to be. My creator, whether he exists or not, I am someone looked at with care",21,Male,White,United States,United States,Mexico,English,No,Part-Time,"English, Spanish",I am me. I believe to be loyal and understanding. I consider myself as a hard working person. Someone who has a passion for life and its creation. I walk along earth and appreciate the moments present. I give it my all to give a better life to others. I am humble. I am me,22,Male,White,United States,United States,Mexico,English,No,Full-Time
+train_0054,"1. I am just a girl.
+2. I am a mom
+3. I am all the things I feel.
+4. I am my inner thoughts.
+5. I am sad.
+6. I am fearful for the future.
+7. I am excited for the future.
+8. I am more than my negative feelings.
+9. I am capable. 
+10. I am worthy of everything I think I'm not.
+11. I am all my past versions of myself.
+12. I am trying my best.
+13. I am funny.
+14. I am a reflection of the best parts of my parents.
+15. I am a girl.
+16. I am 27 years old and terrified of growing old.
+17. I am a writer.
+18. I am a teacher.
+19. I am loved.
+20. I am someone who is important.",27,Female,Other,United States,United States,United States,Spanish,Yes,Due to start a new job within the next month,"English, Spanish",Who am I? I am a strong young woman and I will and know to achieve!,29,Female,Other,United States,United States,United States,Spanish,,
+train_0055,"Caring, honest, smart, brave, cautious, loving, loyal, fun, sarcastic, funny, quiet, adventurous, momma, wifey, intelligent, pretty, wise, nurturing, sweet, kind",39,Female,White,United States,United States,United States,English,No,Part-Time,English,"I am a mom, wife, daughter, sister, teacher, volunteer, friend, helper, painter, artist, crafter, gardener,Baker, cook, organizer, athlete, rock, cleaner, seller, giver, Christian,",41,Female,White,United States,United States,United States,English,No,Part-Time
+train_0056,"Intelligent, kind, funny, curious, stubborn, hard-working, dedicated, caring, helpful, empathetic, supportive, smart, tenacious, tired, artistic, creative, invested, thoughtful, friendly, sarcastic",36,Female,White,United States,United States,United States,English,Yes,,English,"I am a sister, a daughter, an aunt, a friend. I am a teacher. I am tired and stressed and still not sure what I want to be doing with my life. I am a good person who wants to do the right thing. I am lonely sometimes. I am trying my best. I am someone who likes to try new things. I am creative. I am a writer, a passable artist, and a decent decorator. I am thrifty and I am thoughtful. I want to be better and I make an effort to be so. I am worthy of love and I deserve to be taken into consideration.",37,Female,White,United States,United States,United States,English,,
+train_0057,"I am a woman who had a birthday yesterday.
+I am someone who enjoys playing golf.
+I like to be social but I also have my limits - I am definitely an introvert.
+I have two sons who both have PhDs.
+I grew up in Oregon but moved to Arizona six years ago.
+I have been married to my husband for more than 35 years.
+I like to travel a little bit which at this time is mostly confined to going back to the Northwest and visiting family.",63,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"Responsible
+Loyal
+Short-tempered
+smart
+dependable",64,Female,White,United States,United States,United States,English,,
+train_0058,"I am an American, born and raised in North Carolina. I was a US Army soldier and military police officer for 5 years. I was married but divorced, with no children by choice. I am an animal lover and have 3 dogs. I am a police officer and have been for 28 long years. I am a democrat and hate donald trump so much that I purposefully never capitalize his name. I was born in the 1960's and am in my 50's. I hope to win the lottery but in the mean time I do surveys like this for a little extra money. I have one brother and one sister, both are older. I am running out of who am I ideas so hopefully there were 20 different things listed here.",56,Male,White,United States,United States,United States,English,,,English,"Hi I am 58 year old. You can't see me so I'll write that I am a white male. I am 5'10"" tall and weigh about 145 lbs with a thin build. I have reddish brown hair and brown eyes. I'm originally from North Carolina but now live in SE Georgia near Savannah and have lived here for about 32 years. I work as a local police officer for the past 30 years. Before that I worked as a military police officer in the US Army. I am divorced but in a relationship. I have one sister and brother, no children, and 2 dogs. I can't wait to retire but have to wait several more years unless I win the lottery.",58,Male,White,United States,United States,United States,English,,
+train_0059,"A citizen
+An artist
+A musician
+A husband
+A brother
+A neighbor
+An educator
+A reader
+A student
+A driver
+An author
+A homeowner
+An adult
+An active person
+A curious person
+A creative person
+A developer of methods
+A carpenter
+A painter
+A cook",67,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am interested in continued education.
+I am creative.
+I am an artist.
+I am a musician.
+I am a husband.
+I am a caregiver.
+I am a conservationist.
+I am a hiker.
+I am an activist.
+I am a helper.
+I am a listener.
+I am a problem solver.
+I am a community member.
+I am a good neighbor.
+I am considerate of others.
+I am skilled with my hands.
+I am a good technician.
+I am an exerciser.
+I am an uncle.
+I am retired.",69,Male,White,United States,United States,United States,English,No,
+train_0060,"I am a compassionate and kind person. 
+I am intelligent and tend to rely on logic more than emotions. 
+I am witty, and sarcastic but kind and prefer not to inflict harm by my words. 
+I am the person who tries to diffuse tension with humor and don't like angry exchanges.
+I have always loved animals and am always trying to help them in some way. 
+I tend to be naive and too trusting with people because I assume that they are good at heart. I have many interests and tend to overextend myself. 
+I am reserved in nature and not demonstrative.
+I care deeply but don't show it often.
+I am curious and enjoy learning about the world.
+I like creative tasks.
+I am organized.
+I am an introvert and need a lot of time to myself.
+I tend to overthink things which can make me indecisive, 
+I really enjoy humor and people who are funny.
+I love music and have a good ear and frequently get compliments on my taste in music. 
+I am artistic and have a good eye for color and form.
+I worry too much and don't like uncertainty.
+I am very protective of others but not maternal.
+I can be selfish but also giving. 
+I am hard to get to know because I am a complex person.",63,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking),English,"I am someone who is: compassionate, loves animals, witty, enjoys learning new things, curious, enjoys nature, good with hands, dislikes confrontation and tries to find common ground, likes things organized, tends to be anxious, introverted, artisitically inclined, self concious, introspective, energetic, strong willed, enjoys music, helpful, worries a lot",64,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+train_0061,"I am a 71 year old grandmother. I am retired from a major university, but I was in Grant funding. I always had boring office jobs, which I said, supported my life, but was not my life. My life was one of many interests. I am interested in metaphysics,I am interested in astrology and the tarot and reincarnation, I took many classes and worked as a tarot reader. I’m a Reiki master. I worked at the Renaissance Festival.  I have a degree in metaphysics from the university of metaphysics.  I can see auras. I am very astute and psychic. I have two daughters that I love more than anything and a grandson and two more grandchildren that my love is limitless. I love my little dog and I grieve over the loss of another dog I had, I like to learn things I like to have fun. I have a good sense of humor and am well liked. I don’t like to travel I like being at home. I am an introvert I like to read. I do arts and crafts. I feel very fortunate to be my age and hope to go on another couple of decades.",71,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am a 73 year-old woman who has led most an interesting and a boring life. If you ask me about my life, I would say it was nothing special, but I think everybody’s life is unique and interesting in their own way so looking back I can see different thingsabout myself that are very interesting as for who am I? I’m as complicated and simple as anybody else, I am filled with complex and often conflicting emotions. Is it difficult to describe myself because it’s constantly changing.",73,Female,White,United States,United States,United States,English,,
+train_0062,"I am a rural girl at heart, though now I live within a city. I love the outdoors, hiking, gardening, etc. I am a bit of an introvert, but enjoy deep relationships with those close to me. My favorite role at this point in my life is as a mother. I (along with my husband) am aiming to raise our children to be conscientious, honorable, faithful people. I am a Chrisitan, have been since my teen years. I have spent time overseas, which has transformed the way I view the world and my place in it. There are wonderful things about every people on Earth. I hope to live a life that is filled with genuine love and care for those around me.",34,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am a woman, daughter, mother, friend, 30-something, Christian, southern-ish, Louisvillian, compassionate, empathetic, loyal forgiving, friendly, listener, enjoyer of art, wannabe creative, wife, fisher, bike rider, hiking, person.",36,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0063,"i am a son, i am a brother, i am a stepdad, i am a nerd, i am a good person, i am a person who likes coke zero, i am a person who loves pizza, i am strong, i am smart, i am funny, i am handsome, i am a gambler, i am a winner, i am succesful, i am white, i am 33, i am tall, i am thin, i am great",33,Male,White,United States,United States,United States,English,No,Full-Time,English,I am a son. I am a dog dad. I am smart. I am handsome. I am kind of dumb sometimes. I am nice. I am kind. I am also an asshole sometimes. I am tired. I am getting old.,34,Male,White,United States,United States,United States,English,,
+train_0064,"1. I am a woman, 2, I am feminine, 3. I am a reader,4. I am a sister, 5, I am compassionate, 6. I am successful, 7. I am kind, 8. I am educated, 9. I am curious, 10. I am artistic, 11, I have a great sense of humor. 12, I am considerate. 13. I am mindful 14. I am aware 15. I am open minded 18. I am creative 19. I am loving 20. I am a good steward of nature",60,Female,White,United States,United States,United States,English,No,Other,"English, French, Spanish","female, 61, kind, smart, considerate, an Oregonian, artistic, outdoorsy, book lover, activist, liberal, open minded, animal lover, good cook, health minded, curious, loyal, positive, strong, a problem solver",61,Female,White,United States,United States,United States,English,,Full-Time
+train_0065,"I'm a wife, a mother and a grandmother. I'm a homemaker and married my soulmate over 30 years ago. I am obsessed with Disney and we travel to Disney World often. I love my car more than the average person, it's my dream vehicle and I take exceptional care of it. Football is a passion and I try to never miss my teams games, during football season I become a different person, my husband loves it though. I'm laid back and easy to get along with but at the same time I'm not a people person either. I can only tolerate crowds when at Disney.",48,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I'm a wife.
+I'm a mother and a grandmother. 
+I'm a daughter to a single mother.
+I'm a friend.
+I love my job and the people I work with.
+I'm obsessed with Disney.
+I have red hair and I treat others as they treat me.
+Traveling is one of me favorite things to do.
+I became a mother at the age of 17 and met my soulmate when I was 16.
+I belive everything happens for a reason and you get out of life what you put into it.
+I'm madly in love with my husband and I spend everyday making sure he knows it and feels it.
+I'm a very lucky woman and my husband shows me and tells me daily how much I mean to him.
+I suffer from Depression, anxiety and PTSD, but I refuse to let it make me miserable.",49,Female,White,United States,United States,United States,English,No,Part-Time
+train_0066,I am a spritual being. I am female I am middle age.  I like the color blue. I have a BA. I like parks. I like playing poker. I like to read .,59,Female,Black,United States,United States,United States,English,No,Full-Time,English,"I am a female 
+I live in the South
+I have a degree in Sociology
+I am tall
+I like to dance
+i play video games
+I am in sales
+I have 3 brothers
+I like to walk
+I read a lot of books
+I talk to strangers
+I have no kids
+I like to look natural
+My favorite  is blue.
+I like plants.
+I have been a movie extra,
+I eat a lot of beef.
+I like to walk bare foot.
+I am an independent.
+I love jackets.",60,Female,Black,United States,United States,United States,English,No,Full-Time
+train_0067,"I am a person who believes in future generations. I do my best to live life in a way that will benefit those who will be living here hundreds of years from now. I love art, online content, time with my pets, and my girlfriend.",29,Male,Mixed,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am a leader. I am someone who enjoys family time. I'm a veteran. I am a gamer. I love my pets. I love my partner. My life revolves around providing opportunities my family. I'm an artist. I'm a protector. I love traveling. I'm someone who suffers a great deal. I'm someone who has a broken body. I'm someone with who has made a great deal of friends. I'm someone who has a few ""best friends"" who I wouldn't trade for the world. I'm someone who is trying to do better. I'm someone who used to love running. I'm someone who was only fast because of the help of others. I'm someone who never gives up. I don't believe in god. I do believe something happens after death.",31,Male,Mixed,United States,United States,United States,English,,
+train_0068,"I am a woman.
+I am 29.
+I am a human.
+I am in Texas. 
+I am from California.
+I am Lebanese- American.
+I am a partner. 
+I am a friend.
+I am kind and compassionate.
+I am positive.
+I am unflappable.
+I am healthy and happy.
+I am flexible.
+I am smart 
+I am a teacher.
+I am a learner.
+I am funny.
+I am a good person.
+I am trying my best.
+I am successful.",29,Female,Mixed,United States,United States,United States,English,No,Full-Time,English,I am smart. I am kind. I am thoughtful. I am funny. I am goofy. I am whimsical. I am unflappable. I am beautiful. I am trying my best. I am creative. I am considerate. I am empathetic. I am a good friend. I am a sister. I am a daughter. I am eager to learn. I am active. I am quick witted. I am someone who loves new things. I am having fun.,31,Female,Mixed,United States,United States,United States,English,,
+train_0069,"I am a Christian, a huge supporter of Israel, a fan of etymology, a female, a Texan, an animal lover, an art admirer, someone who loves good writing, someone who supports entrepreneurship, a person who loves God, somewhat cosmopolitan, a chocolate lover, a fish lover, a travel buff, a language buff, a wit, a tenacious person, a poetry lover, a music lover, a scrabble fan, and an intuitive thinker.",68,Female,White,United States,United States,United States,English,No,Part-Time,English,"1. A born again Christian. 2. Someone who loves learning, 3. Someone who graduated college and also attended graduate school, 4. An animal lover, 5. Someone with a natural sense of humor, 6. Someone who has been a successful entrepreneur, 7. Someone who is sensitive to the world around us, 8. Someone who loves nature, 9. Someone who cares about the environment, 10. Someone who loves reading, 11. Someone who loves art and design, 12. Someone who easily tunes in to the suffering of others, 13. Someone who loves horses and being in the outdoors, 14. Someone who does not excel at math, 14. Someone who loves to swim, 15. Someone who cares little for physics, 16. A female, 17. Someone who likes order in the home, 18. Someone who is happy to share with others, 19. Someone who is not aging gracefully, 20. Someone who loves God above all else and is looking forward to an eternity with Him in heaven.",69,Female,White,United States,United States,United States,English,No,
+train_0070,I am a man.  I am bald by choice.  I have blue eyes.  I am a little chubby.  I have facial hair.  I am gay.  I have a partner.  I like to cook.  I love to try new food.  I enjoy science fiction movies.  I am a loyal friend.  I have had the same job for many years.  I am a supervisor at my job.  I care about people.  I have a small friends group.  I love dogs.  I do not like cats.  I was raised by my mom.  I love music.  My favorite artist is Cyndi Lauper.,39,Male,White,United States,United States,United States,English,No,Full-Time,English,"I am a man
+I'm a natural blonde
+I am bald by choice
+I am gay
+I am a democrat
+I have a partner
+I have dogs
+I love pizza
+I love Chinese food
+I graduated high school in California, Mo
+My mom raised me as a single mother
+I have one best friend
+I graduated from Kansas University
+I drive a Nissan Sentra
+I love pro wrestling
+I am a supervisor for a call center
+I wouldn't say I'm dumb but I do have more street smarts than I do book smarts
+I love science fiction
+I am an extrovert
+I am a very trustworthy person",40,Male,White,United States,United States,United States,English,,
+train_0071,"i am a man. i am tired. i do my best to come off friendly to those around me. i know my words don't match the face they come out of. i try harder then i should on what's not important, yet am slow when it truly counts. i don't have dreams, i am just trying to be useful to those i care about till my life ends. i am hispanic. i am not tall but not short. my brain goes faster than i like. i am calm but ready to jump at any point. i enjoy math and history. i am a visual thinker, with a vivid imagination. i am methodical. i am stronger then i look, and try to be as gentle as possible. i am loud when i am comfortable, and quiet if something is off.",31,Male,Mixed,United States,United States,United States,English,No,Full-Time,English,"i am a tired soldier marching through life at the pace set before me. i am a tool that is broken but still wants to be useful to those important to me. i am someone who is both forgettable and rememberable. i am someone who only speaks in half truths to ease the minds of those around me. i am someone who displays calm even though there is a hurricane of emotions in my head. i am average height, build and appearance. i am someone who cares when i shouldn't and tries when i should give up. i am someone who refuses to be part of a cycle that made me what i am today. i am someone who expects to be hated before being like, and be viewed guilty before innocent. i am someone who struggles to describe myself in this format and tried to give valuable answers.",32,Male,Mixed,United States,United States,United States,English,,Full-Time
+train_0072,"I am kind, generous, loving, bipolar. I can be unmotivated and motivated. I am introverted. I am selfless.i am kind of attractive. I'm overweight. I am a homebody. I am fearless when manic. I am liberal in my political views.i love my country. I'm loyal. I hate to excersize. I'm an animal over especially dogs. I can be hateful unfortunately. I'm dependable. I'm a bit self loathing",60,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking),English,"Hi, I'm a mom and a dog mom. I was born in the mid 1960's. I live in a residential yet rural part of a small town. I have light brown hair and blue eyes.",61,Female,White,United States,United States,United States,English,,
+train_0073,I am an American. I am tall. I am intelligent. I am patient. I am male. I am heterosexual. I have blue eyes. I have blond hair. I am not overweight. I am healthy. I have no defects. I am happy. I have all I need. I am married. I like to read. I am a computer expert. I raise animals. I grow food. I own a home. I own a car.,57,Male,White,United States,United States,United States,English,No,Part-Time,English,"I am an adult American male. I am well read and have received some higher education. I like to read, solve puzzles and play logic games. Movies and television bore me. I am always learning new things about life, the universe and everything. I do not believe in an afterlife, or in deities and other mythological beings. I do not believe in superheroes or superpowers. I believe the world is an amazing place and worth the effort of studying everything around you. I like people and have many friends and acquaintances. I eat simple foods; no fast food or processed foods for me and my family. I have rescued many animals and they live on a small piece of land that I own. I have been using computers since the late 1980s and have many skills in electronic arts. I exercise regularly and have no known health issues.",58,Male,White,United States,United States,United States,English,No,Part-Time
+train_0074,"1. I am a man. 
+2. I live alone. 
+3. I am middle aged. 
+4. I have no children. 
+5. I am divorced. 
+6. I have a university degree but haven't used it. 
+7. I am a disappointment to my mother. 
+8. I am using welfare benefits. 
+9. I am a veteran. 
+10. I have never seen combat. 
+11. I do not keep a job for very long i.e. 1-2 yrs. 
+12. I don't mind talking to people but I don't go out of my way to do so. 
+13. I will probably die in affordable housing neighborhood. 
+14. I will not leave much of anything of value behind. 
+15. I live within my means. 
+16. I think about the future but don't see myself in it. 
+17. I enjoy living alone. 
+18. I would despise going back to work a retail job. 
+19. Since the pandemic, I have taken human health very seriously. 
+20. Since the pandemic, I have made the connection between diet and environment more personal.",50,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking),English,"1. I am a veteran. 
+
+2. I was in the United States Navy. 
+
+3. I was born and raised in the Southern United States. 
+
+4. My biological father broke off contact with the family after he and my mother were divorced. 
+
+5. I earned mediocre grades in school. 
+
+6. I went to public education. 
+
+7. I got engaged to be married after separating from the Navy. 
+
+8. I worked my way through school while we were engaged/married. 
+
+9. I have a lot of experience in retail. 
+
+10. I am unemployed and no longer looking for work. 
+
+11. I was formally diagnosed with chronic depression around 15 years ago. 
+
+12. I was obese before the coronavirus pandemic hit the world in 2020. 
+
+13. I began a regimen of diet, exercise, sleep, and stress reduction during the lockdown. 
+
+14. I have continued this routine to the present day. 
+
+15. I have eliminated the symptoms of obesity, diabetes, and depression with only good habits. 
+
+16. I go to eat at a soup kitchen at least once per week. 
+
+17. I enjoy solving logic puzzles. 
+
+18. I am not a confident speaker. 
+
+19. I don't make friends easily. 
+
+20. I like walking in the park with a backpack for exercise.",51,Male,White,United States,United States,United States,English,No,Other
+train_0075,"I am a full-time RVer, I live in a Class B Van, I sold my condo to live in a van 15 months ago,  I am a retired athletic trainer, I was an athletic trainer for over 30 years, I developed two athletic training programs, I was divorced over 20 year ago, I am single 63 yr old white male, I travel the whole country in my van, I am originally from New Hampshire, I lived in Florida for 24 years, I graduated from Wright State University, I received my masters from Sacred Heart University, I am a big Boston sports fan, I love to camp and be around a campfire, I graduated for Calvary Christian Schol High School, I worked at Sacred Heart University for 10 years, I worked at Palm Beach Atlantic University for 7 years. I had my own athletic training consultant business for several years, I was in sales for seven years",63,Male,White,United States,United States,United States,English,No,Part-Time,English,"I know I am God's creature put on earth for a purpose.  Years later, I still do not know the exact reason why I am here on earth, but I hope I am a blessing to people. I think I am a caring individual who, if I say if hurts anyone's feelings very it bothers me and I want to make it right and apologize to that person.",64,Male,White,United States,United States,United States,English,,
+train_0076,"Good Person, genuine, care for others, honest, loyal, patient, introvert, music enthusiast, movie enthusiast, tv enthusiast, hard worker, open minded, video game enthusiast, tech savy, father, brother, sports lover, concert goer, family oriented, friendly.",35,Male,White,United States,United States,United States,English,No,Full-Time,English,"Hi I’m Todd. Some of my interests include listening to music, watching movies and television, playing video games and watching/attending sporting events. I’m in my mid 30s and work for a stable company in a stable field. I enjoy spending time with family and friends, attending concerts, and traveling to the Caribbean.",36,Male,White,United States,United States,United States,English,No,Full-Time
+train_0077,"I am a kind person. I am a generous person, even though I am not wealthy by any means. I am an ambitious person who wants to succeed. I am an admirer, and I love to appreciate what I see. I am an artist and designer. I am a creator. I am a daughter, and I am a sister. I am a believer in a greater power; in source. I am loving, I am forgiving. I am someone who cares deeply about my loved ones. I am someone who would do anything to make my loved ones happy and to make their lives easier. I live to be free. I am someone who loves to live life. I am someone who wants to experience joy. I am someone who wants to experience all the world has to offer. I am someone who appreciates cultures and is cultural myself. I am funny, I love to make people laugh. I am deep, I have the ability to be extremely aware of myself, others, and how the world works, past superficial objectives.",22,Female,Mixed,United States,United States,United States,English,No,Unemployed (and job seeking),"English, Hebrew","1. I am an artist. 
+2. I am kind. 
+3. I am caring. 
+4. I am loving. 
+5. I am emotionally intelligent. 
+6. I am deep.
+7. I am someone who works hard. 
+8. I am someone who enjoys nature. 
+9. I am someone who loves a good party. 
+10. I am a extrovert with anxiety. 
+11. I am someone who loves a good time. 
+12. I am a good friend. 
+13. I am someone who loves to do makeup and dress up because it makes me feel good and confident.
+14. I am someone who cares about others. 
+15. I am opinionated yet open minded.
+16. I am someone who cares about appearances and first impressions.
+17. I am someone who finds joy in cute, little things.
+18. I am someone who loves animals.
+19. I am someone who loves to explore ans go on adventures.
+20. I know I am someone who will do well with my life and cares about a work/life balance because of it.",24,Female,Mixed,United States,United States,United States,English,No,Full-Time
+train_0078,"I'm a walking contradiction. An extroverted introvert, I'm quick-witted, articulate, sophisticated, but simultaneously silly, sophomoric, and love a good belly laugh. I collect fine art. But only by artists from the city I live in. I admire all things aesthetically pleasing. I'm owned by several stunning pure-bred cats. I inherited a love of sports cars from my dad. I don't drink alcohol. I love dark chocolate. I live for college football, especially when it's my alma mater playing. My new year's resolution is alway ""go to more concerts."" Live music fuels my soul. I'm learning how to play the drums. I don't let a great number of people into my life. But the ones I do, I'm a ride or die for. I'm lucky in that my career has rarely felt like work.",61,Female,White,United States,United States,United States,English,No,Part-Time,English,An art collector. A cat woman. A bimmerphile. A beginning drummer. A clotheshorse. A logical person. A frugal person who likes nice things. A college football fan. A chocolate lover. An aspiring interior designer. A power walker. A person who likes to debate. An avid reader. A fervent concert-goer. Someone who has music on almost always. A healthy eater. A sarcastic person. A study in contrasts. An extroverted introvert. Someone who speaks their mind tactfully.,62,Female,White,United States,United States,United States,English,,
+train_0079,I am a middle age women who works part time walking dogs. I like to go to the beach and read. My bedtime friend lives in London,37,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am a women who is an aunt, sister, friend and dog parent. The importance in my life is volunteering at a rescue. Appearance wise I have dark brown hair, stand at 5’5 and very active.",38,Female,White,United States,United States,United States,English,No,Part-Time
+train_0080,"Man
+Gay
+Middle-class
+Educated
+Friendly
+Caring
+Husband
+Son
+Brother
+Role model
+Leader
+Creative
+Imaginative
+Supportive
+Caring
+Organized
+Thoughtful
+Talented
+Planner
+Friend",47,Male,Mixed,United States,United States,United States,English,No,Full-Time,English,"I am male.
+I am a husband.
+I am brother.
+I am a son.
+I am an in-law.
+I am a friend.
+I am gay.
+I am a teacher.
+I am a party planner.
+I am a project manager.
+I am one who enjoys cruises.
+I am one who collects board games.
+I am a people pleaser.
+I am creative.
+I am imaginative.
+I am in my 40s.
+I am a Virgo.
+I am one who is preparing for a career change.
+I am a cancer survivor.
+I am a good listener.
+I am organized.",48,Male,Mixed,United States,United States,United States,English,,
+train_0081,"a husband
+a son
+a father
+a dog lover
+a community member
+a pilot
+an engineer
+a Republican
+a veteran
+a pickleball player
+a chef
+a pool guy
+a bug guy
+a Trump supporter
+a clean person
+a reliable guy
+a helpful guy
+a lover
+a weight lifter
+a conservative",60,Male,White,United States,United States,United States,English,,,English,"father, son, brother, uncle, dog owner, pickleball player, hiker, gamer, gun advocate, Marine, police supporter, conservative, Republican, engineer, technology specialist, candy lover, creative cooker, stock investor, family man",62,Male,White,United States,United States,United States,English,No,Full-Time
+train_0082,"Beautiful 
+Intelligent 
+Smart
+Charming 
+Joyous 
+Outgoing 
+Caring 
+Concerned 
+Loyal
+Loving
+Dependable 
+Thoughtful 
+Attentive
+Curious 
+Dependable 
+Funny
+Talented 
+Resilient 
+Go getting 
+Aggressive",55,Female,Black,United States,United States,United States,English,No,Full-Time,English,"Amazing, intelligent, respectful,loving,kind, loyal, trustworthy, sincere, beautiful, determined, funny, outgoing, outstanding, outspoken, generous, helpful, nurturing, caring,motivated, selfless",56,Female,Black,United States,United States,United States,English,No,Full-Time
+train_0083,"I am a father
+I am a man
+I am a hard-worker
+I am a curious mind
+I am a person who values loyalty
+I am a thinker
+I am a forever learner
+I value technology
+I want to discover new things all the time. 
+I want to be a fierce friend
+I want to leave my family with more than what they have now
+I want to succeed in everything I try in life
+I am a survivor
+I value human rights for all
+I am an ally
+I believe in equality for all humans
+I believe in the right to choose
+I am an American
+I am Filipino
+I am African",40,Male,Mixed,United States,United States,United States,English,,Full-Time,"English, Tagalog-Filipino","I am a loving husband
+i am a loving father
+i am a devoted son
+i am a thinker
+i believe in all human rights
+i believe in equal rights
+i fight for those les fortunate
+i am an empath
+i am a free thinker
+i am an introvert 
+i believe i matter
+i hold myself in high regard
+i think of myself as a loyal person
+i am a passionate friend
+i believe in matching energy with others
+i do not hang onto needless relationships
+i am not that adventurous
+i am a lifelong student
+i enjoy reading and discussing current events
+i strive to make a difference in this world for at least one other person",42,Male,Mixed,United States,United States,United States,English,,
+train_0084,I am a woman,34,Female,Black,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,I am a person,35,Female,Black,United States,United States,United States,English,,
+train_0085,I am a strong woman. I know how to cook and maintain a household. I also have a mechanical and engineer mind that is quick and efficient in problem solving situations. I have true grit. I can withstand great trials and won't Crack under  pressure. I am awesome,41,Female,Mixed,United States,United States,United States,English,No,Unemployed (and job seeking),English,"I am kind. I am considerate. I am strong. I am resilient. I am courageous. I am beautiful. I can sing well. I write slow. I write songs and poetry. I grew up in Arkansas out in the rural country area with both my parents,who are still married and my two little sisterS. One of whom which is passed away. She committed suicide at 36 years old after marriage trouble and a prescription drug addiction. I miss her so much. I am 5 foot 2 inches. I weigh 180 lbs. I have graves disease. I have trouble with my thyroid because of this disease and I am currently on medication for it. I have a low vitamin d blood count and so I'm deficient in vitamin D. I have o negative type blood. I have long brown hair.",42,Female,White,United States,United States,United States,English,,
+train_0086,"I am a black male. I enjoy abstract strategy games, and socializing. I am well traveled and well educated. I am socially conscious and a defender of environmental causes. I consider myself a life long learner and a citizen of the world.",56,Male,Black,United States,United States,United States,English,No,,English,"I am a middle aged black male. I am well-traveled, well-read and Ivy educated. I am open minded and tolerant of most things except intolerance. I enjoy sports and nature tremendously. I'm a ""foodie"". I enjoy cooking and eating very much. I also consider myself a life long learner.",57,Male,Black,United States,United States,United States,English,No,
+train_0087,"I am an ambitious young woman who is apart of the gen z generation. I am someone who aims for constant positivity despite the world being such an unfair place. I am someone who believes in speaking things to existence because the tongue is so powerful. I am a short and small statured person who has a big personality and big goals. I am a hungry person literally and figuratively. I am a very creative soul who is always open to offering solutions to plethoras of issues. I am a person who is very mindful of my surrounds and the feelings of those who surround me. I am a person so who can be very cautious but when the surroundings have been confirmed to be safe I am the life of the party. I am someone who values their family very much. However, despite me valuing family very much I am I not one to let someone step on be simply because we are family. I am someone who I personally feel have a very good grasp on emotional and logical affairs. I am a very caring and generous soul. By that, I mean as long as I see the person cares about my wellbeing I am willing to give them the clothes off of my back. I am someone who takes great pride in their appearance. However, I have a good balance with these things because I am not always dressed to impress, I am comfortable enough in my own skin to go out in a casual outfit without my hair or makeup down. Whenever I do dress up however, I always end up looking like a different person in a good way and I will dress my best in that situation however that doesn’t occur often enough. I enjoy the natural beauty in life of wearing sunscreen with a  natural blush and bronzer. I am what one would call a girly girl nor a tomboy I am simply just a girls girl. I grew up leaning towards my masculine side and am now on a journey to come into myself and truly understand my style, emotions, and personality as a young adult. Overall, I see myself as a diamond in the rough and a work in progress but despite not being where I’d prefer to be, I am more than happy with how much I’ve accomplished and I will continue to be ambitious till I accomplish all future goals.",21,Male,Black,United States,United States,United States,Esperanto,No,Full-Time,English,"Who am I you ask I am a person who is driven. I am a young African-American woman with Caribbean descent. I am a driven person who achieved every single thing that they put their mind to. I’ve been through a lot of different things in my life not to say that there’s anybody who hasn’t, but I pride myself on the fact that I’ve been able to get through those hardships. I am short. I have orange hair orange to blonde hair. I also make music. I pride myself on my creativity and my ability to write and my articulateness I am also a mother I am a new mother. My child is four months old. I pride myself on the patient that I have developed since being pregnant with her, and also since giving birth to her, I have been told that I have the patience of a since giving birth to her. I feel like my patience is almost infinite. I am a very understanding person who prize themselves on their ability to forgive And never forget, but also move forward in a productive way. I am not perfect. I also make mistakes like any other normal human being however I have learned in and still learning how to do better from those mistakes and how the best way to learn from them.",22,Male,Black,United States,United States,United States,Esperanto,,
+train_0088,"I am a woman.
+I am a wife.
+I am a mother.
+I am creative.
+I am loving.
+I am logical.
+I am Christian.
+I am smart.
+I care too much.
+I am not materialistic.
+I am a good person.
+I try my best.
+I'm always looking for peace and quiet.
+I like to learn new things.
+I like to share with others.
+I care about my family and friends.
+I keep my circle small.
+I don't like huge crowds.
+I like being at home.
+I like to find solutions.",53,Female,Other,United States,United States,United States,English,No,Part-Time,"English, Spanish","I am a middle-aged woman who is married to a wonderful man. I am smart and witty. I enjoy being at home and spending time with family. I grew up in an ethnic minority household and was the youngest of a large family. I am also a twin which means my self-identity was somewhat intertwined with my sister. Although English was not my first language, I do feel like I mastered it well enough. I was an essay award winner in college and graduated with a Bachelor's from a private women's college in the Northeast, over 2,000 miles from my hometown. I was fairly successful in school and at work until I gave it up to be a stay-at-home mom. I homeschooled three kids, two of whom are college graduates, plus the third is a junior in college. I love being creative, but I also have lots of logic. I love cooking, organizing, and design. I want to be buried with my dogs that have passed away, as they were super important to me. I love adventure and exploring, and I am not afraid to be alone. I just celebrated 25 years married to my second husband and couldn't be happier. My biggest flex is doing things for others and being a follower of Christ.",55,Female,Other,United States,United States,United States,English,,
+train_0089,"1. I am a woman.
+2. I am a Christian 
+3. I am 58 years old.
+4. I am married. 
+5. I have 2 adult sons
+6. I am a grandmother.
+7. I have blonde hair
+8. I have green eyes
+9. I am a fairly intelligent. 
+10. I am giving.
+11. I am caring.
+12. I am nice.
+13. I like to have fun. 
+14. I like to socialize.
+15. I have moved a lot.
+16. I don't have many close friends.
+17. I am close to my family. 
+18. I have been divorced. 
+19. I am not rich.
+20. I don't place a lot value in material things.",58,Female,White,United States,United States,United States,English,No,Part-Time,English,"I am a Christian.
+I am a woman.
+I am a mother.
+I am a grandmother.
+I am a wife.
+I am a daughter.
+I am a sister.
+I am an aunt.
+I am a good person.
+I am a friend.
+I am a hard worker.
+I am helpful.
+I am smart.
+I am a person who tries hard.
+I am not a strong person.
+I am a person with flaws.
+I am a person who struggles.
+I am a person who is depressed.
+I am a person who is anxious.",59,Female,White,United States,United States,United States,English,,
+train_0090,"I am the child of two very hardworking, loving, small town parents. I was brought up to believe in a strong sense of family and to take pride in a strong work ethic. Things were not always financially easy for my parents but they always made sure we had everything we needed and some of what we wanted. I graduated from high school in a time were it seemed only certain kids were told they could or were able to go to college. My parents, having never been to college, didn't necessarily see the importance and didn't offer to help me figure out how to go. Although I have a very good life, a college degree has always been one of the things I wish I had done. I married and had children, built a house and did all of the things I wanted as far as having a joyful life. As our children grew and became more expensive, I just never took the time to go back to school. Now I find myself as a grandmother and even though I never completed a degree, I have found satisfaction in taking random courses here and there.",56,Female,Mixed,United States,United States,United States,English,No,Full-Time,English,"A mother of 2 adult daughters. A grandmother to 3 boys. A wife of 37 years. A woman who has had many professional positions. A proud female business owner. A follower of Christ. Someone who loves gardening. Someone who loves time with family and friends. Someone who gets great joy from helping others. Someone who tries daily to be a good influence. A manager of college age employees. I enjoy getting to know my employees and learning their backgrounds. Someone who is curious about history and life in other countries. Someone who tries to be an encourager to those around me. A children's church teacher who enjoys teaching little ones about Jesus. A person who loves to read all sorts of things. An employee who thrives on deadlines and challenges. A dedicated team member at work. A mom, grandmother and wife who thinks her family is the best thing ever. An ""almost' retired woman who is looking forward to that part of life.",58,Female,Mixed,United States,United States,United States,English,No,Full-Time
+train_0091,I am a Black American. I am a woman. I am a Christian.  I am a part-time employee. I am creative. I like to pray and fellowship with other Christians. I'm a Mother. I am a grandparent. I am a reader. I am a church goer.,73,Female,Black,United States,United States,United States,English,No,Part-Time,English,I am a Christian with strong moral values. Wanting to do what is right and fair.,74,Female,Black,United States,United States,United States,English,No,Part-Time
+train_0092,"I'm an average height, slightly overweight Caucasian man in his early middle age. I'm introverted, own a cat, have brown hair. Am hearing impaired. Like music. I don't know what else to say",38,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking),English,"Im a brother, both to adopted siblings and half siblings. I'm a son. I'm a democratic socialist. Im liberal. Im a fan of sports. I love the Packers. I love the Cubs. Im a pet owner, to a cat. Im a friend, to people of all walks of life. I'm compassionate. Im passionate about what I believe in. What I believe most in is fairness, equality and honesty. I am employed, and work seriously. I'm a voracious reader and accrue knowledge as much as I can. I'm mostly of white, Northern European ancestry. I enjoy history above all subjects. I'm heterosexual, but an ally to those who are not. Im slow to trust, but once I do, Im loyal. And I despise Trump and all his ilk and sycophants. I believe the future needs us to act, to ensure it. Im an atheist, but a humanist who believes humanity can be better.",40,Male,White,United States,United States,United States,English,No,Part-Time
+train_0093,"I am a 46 year old married, mom of two grown kids. 
+I am faithful, loyal, trustworthy, a good communicator and often consider myself an empath.",46,Female,Mixed,United States,United States,United States,English,No,Full-Time,English,"I am a mom
+I am a wife
+I am a daughter 
+I am a sister
+I am a grandmother 
+I am head of my household 
+I am a hard worker 
+I am a loyal person 
+I am kind 
+I am empathetic to a fault 
+I am silly 
+I am fun 
+I am caring 
+I am sarcastic 
+I can be anxious at times 
+I suffer from the stress of the world 
+I carry a lot of weight. 
+I am a lover
+I am respectful 
+I am a dreamer",47,Female,Mixed,United States,United States,United States,English,,Full-Time
+train_0094,"1. I like to eat. 
+2. I like to sleep. 
+3. I like to watch movies. 
+4. I am a mother. 
+5. I love my child and husband. 
+6. I am a healthcare worker. 
+7. I have a dog. 
+8. I love animals. 
+9. I am Asian. 
+10. I know how to speak Chinese. 
+11. I have an amazing family. 
+12. I love my life. 
+13. I hate cooking everyday. 
+14. I wish I was skinnier. 
+15. I want to go to China sometime again. 
+16. I like to dance. 
+17. I like to ski. 
+18. I like to swim. 
+19. I love living in the east coast. 
+20. I am ABC.",59,Female,Asian,United States,United States,United States,Chinese,,Full-Time,"Chinese, English","Girl, Worker, Dancer, Artist, love to dance, love to travel, cares about family, pet dog, pet chickens, goal oriented, funny, caring, nice, loving, cook, night owl, daughter, sister, girlfriend, sporty",23,Female,Asian,United States,United States,United States,Chinese,,
+train_0095,"I’m a 68 year old retired geologist.  I live in the mountain west with my wife and three dogs. I have one child and two grandchildren that live near Denver about 400 miles from us.  My parents were from South Dakota. My dad was a Spanish teacher and we moved around a bit.  I was born in California but eventually we ended up in the Panama Canal Zone. We lived there nine years. During that era it was an ideal place to live. We moved to South Central Texas in the late 1960s. It was definitely culture shock moving back to the USA. I went to high school and college in Texas through connections. I ended up working in the oil and gas industry and as a geologist. We ended up living in the mountain west, and have loved it here ever since.",68,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,I am a retired white male. I like riding motorcycles. I enjoy learning about new technologies and applying them to my life. I am married. I have 4 dogs. I have a masters degree in geology. I am enjoy being active and exercising. I enjoy watching college football. I am politically conservative.  I own firearms.  I live in a safe gated community. I have traveled around the world several times. I enjoy hiking and camping in the outdoors. I enjoy discussing politics. I am a Christian. I enjoy collecting coins and gold and silver bullion. I like reading I’m listening to audiobooks. I enjoy going to museums. I like listening to all kinds of music. I like action movies I collect petrified wood.,70,Male,White,United States,United States,United States,English,,
+train_0096,I am a human being. I'm a woman. I'm an american citizen. I'm a licensed veterinary technician. I'm someone who practices yoga. I'm a reader and a writer. I am a student. I'm of European and French Canadian descent. I'm a pet parent. I'm an animal lover. I'm a feminist. I'm a student of Judaism. I'm a bike rider. I'm a swimmer. I'm in my forties. I'm a former New Yorker. I love the beach and the ocean. I love plants. I'm anti-capitalist. I like to travel the world.,42,Female,White,United States,United States,United States,English,,,English,I am a human being. I am a female-identifying person. I live in the United States. I am middle aged. I am caucasian. I speak English. I live in the Northeast. I work with animals. I have a bachelor's degree. I am divorced. I have no children and am happy about it. I live in a house. I am a leftist. I love nature. I love animals. I am an anti-capitalist. I am not religious. I love traveling to other countries. I want to relocate to another country someday. I find existence baffling.,43,Female,White,United States,United States,United States,English,,
+train_0097,I am a mother. I am a daughter. I am immunocompromised. I am sarcastic. I am friendly. I am loyal. I am quiet. I am an introvert. I am funny. I am married. I am an artist. I like to draw. I love cats. I own chickens. I like to read. I love baking. I like movies. I love fall. I love Halloween. I love holidays.,37,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am a woman
+I am in my 30s
+I have a child
+I am a mom
+I like art
+I am an artist
+I love animals
+I love fall
+I have depression and anxiety
+I am friendly and sarcastic",38,Female,White,United States,United States,United States,English,,
+train_0098,"I am a person who works hard to live as authentically as possible. I am a person who is self-aware and reflective. I am a person who tries to benefit themselves in healthy and pro-social ways. I am an imperfect person who is constantly growing and learning about themself. I am a person who loves to build and maintain connections with others. I am a person who is sensitive to others’ emotions and feelings. I am a person who chooses to challenge others when appropriate to break their cycle of pain and suffering. I am a person who loves to laugh and enjoy good company. I am a person who loves animals, especially dogs. I am person who remains curious until an answer that is sensible comes along. I am a person who loves to create art in different facets. I am a person who is willing to try thrill-seeking activities. I am a person who is trying to have a more healthy relationship with engaging in conflict. I am a person who will ask the uncomfortable questions. I am person who loves to travel and explore domestic and international destinations. I am a person who loves to watch true- and fiction crime shows and movies. I am person who has learned how to set boundaries with family members. I am a person who struggles with their appearance and creating a healthy relationship with food. I am a person who needs to have their space organized and cozy to feel comfortable and relaxed. I am a person who lives to help and support others with their struggles.",30,Female,White,United States,United States,United States,English,No,Full-Time,English,I am a counselor,32,Female,White,United States,United States,United States,English,No,Full-Time
+train_0099,"I am retired
+I am an american
+I am born of immigrant parents who came from europe
+I am a child of the 1960s
+I am a highschool graduate
+I am a former Jehovah's Witness
+I am a pantheist
+I am a student of psychology and philosophy
+I am a lover of science fiction
+I am someone who has read over 500 books
+I am 6'4""
+I am one who now has heart conditions
+I am over 60
+I am living in florida
+I am a practicer of mindfulness meditation
+I am one who has solved the riddle of emotions
+I am divorced
+I am one who has raised adopted children
+I am one of two surviving brothers of an original three
+I am an orphan",63,Male,Mixed,United States,United States,United States,English,No,Part-Time,English,"A tall, overweight, mixed race Male. born in NJ, where I lived 25 years. lived in Sicily for 2 months. lived just outside Boston for a Year and have lived the last 37 years in Tampa Florida. I spent a year in Hamilton prison near Valdosta Ga. I am a granduate of a vocational and technical High school and was enrolled in DeVry Tech for 2 years but did not Graduate. I have read close to 500 books which. While I wanted to work with computers, I ended up do many other things. I got  real estate license. I passed Microsoft certification. I fixed copier machines. I worked in a nuclear pharmacy. I drove a limousine and  a taxi. I worked for an ASL provoder doing line testing. I worked for the post office doing expressmail tracking and tracing. I worked for a major insurance co as a claims processor and a customer service consultant. I drove for food dilivery and package delivery services.",64,Male,Mixed,United States,United States,United States,English,No,Part-Time
+train_0100,"I am a fair and honest person. A great friend, a good listener and communicate well. I am also loyal and trustworthy. Intelligent, interesting, versatile and outgoing.",58,Female,Black,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,trustworthy loyal nice moral christian,59,Female,Black,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0101,"I am someone who wants to live a relaxed, but fulfilling life. I'm open to new experiences and trying new things. I prefer to spend my time and resources for experiences with those close to me. I'm fairly soft-spoken and try to get along with everyone I meet. My interests are simple and easy to get into.",30,Male,Asian,Philippines,United States,United States,English,No,Full-Time,English,"I'm a database programmer
+I'm a Filipino
+I'm a millenial
+I'm an employee
+I'm a renter
+I'm an investor
+I'm a gamer
+I""m a survey taker
+I'm an Instagram user
+I'm a positive thinker
+I'm a chill person
+I'm a man
+I'm excited for the future
+I'm a US citizen
+I'm Asian
+I'm engaged
+I'm trying to improve myself everyday
+I'm a Master's degree graduate
+I'm a California resident
+I'm an English speaker",31,Male,Asian,Philippines,United States,United States,English,No,Full-Time
+train_0102,I am a man. I am caucasian. I am a quiet person. I like to read and write. I have worked as a strategist. I have two Masters degrees and 4+ years towards a PhD. I keep up on current events. I have two sons. I have several health issues. I enjoy engaging in constructive discussion on important matters. I watch news programs. I watch movies. I enjoy driving. I enjoy exercise. I am divorced. I have strong analytical skills. I enjoy framing and solving problems. I like to build things. I have worked for 40+ years. I want to help the world be a better place for everyone. I am a Christian.,72,Male,White,United States,United States,United States,English,No,Part-Time,English,"Hi, my name is Alan",74,Male,White,United States,United States,United States,English,,
+train_0103,"I am a woman. I am a wife, and I am a want-to-be mother. I am a cat owner. I am young. 
+I am a chef. I am a caretaker. I am a daughter. I am a sister. I am a friend. 
+I am a hard worker. I am an eager person. I am a worried person. I am tired. I am getting old.
+I am a baker. I am a companion. I am a joke maker. I am a clean person. I am grateful.",24,Female,White,United States,United States,United States,English,No,Full-Time,English,"I am a woman who is white and around average height. I am a wife, sister, daughter, and friend. I am someone who values completing tasks and getting things done. I am a gym goer. I am someone who is in good shape and is working on her mental health as well. I am a cat owner and a home owner. I am a worker at my job but not the top performer or first person to report to the boss. I have some trouble talking to people and making friends at time. I get tired easily and often don't make enough time for others, but I am also someone working towards a more sustainable life with more purpose and broader interests.",26,Female,White,United States,United States,United States,English,,
+train_0104,"Petite
+Funny
+Kind
+Loving
+Caring
+Smart
+Lonely
+Tired
+Tough
+Inventive
+Creative
+Engaged
+Motherly
+Supportive
+Friendly
+Happy
+Scholastic
+Shy
+Loner
+Thrifty",45,Female,White,United States,United States,United States,English,No,Due to start a new job within the next month,"English, Spanish","i am a women
+i am a mother
+i am quiet
+i am kind
+i am loving
+i am petite
+i am an avid lover of science esp space sciences
+i am open minded
+i am the daughter of a war veteran
+i am a little odd
+i am eco-friendly
+i am empathetic
+i love nature
+ i care about animals
+i care about others well being
+i am private
+i am not very articulate
+i am funny i think
+i love hard 
+i am loyal
+i work hard
+i am a homebody
+i like learning about different cultures
+i like the cold more than the heat
+i love fall and winter
+i wanted to be an astronaut when i was younger and sometimes wish i had
+i used to be religious but the more i learn the more i question my faith
+i am sorry for others actions esp now 
+i wish people could treat others the way i treat them",46,Female,White,United States,United States,United States,English,,
+train_0105,"1) I am a woman with a passion and thirst for knowledge. 
+2) I am highly curious about the world around me. 
+3) I value kindness, generosity, understanding and compassion. 
+4) I believe in humanity
+5) I like to garden and collect rocks and fossils
+6) I enjoy science and the drive for innovation
+7) I am a woman who strives for excellence in her daily life
+8) I like the quote ""work hard, play hard"" I value hard work but also a life of balance
+9) I enjoy reading mysteries and thrillers with plot twists
+10) I volunteer not because I should but because I am healthy and able to 
+11) I am not a human; I am only a brain in a fleshy meat suit
+12) I am an organism, living and breathing, on this giant spinning rock I call home
+13) I am a woman who gives second chances
+14) I am non-religious but I believe there is something more to the universe that we cannot understand or ever comprehend. I find that quite beautiful, the fragility of life
+15) I am 26 years old but in my mind, I feel only 19. Young and naive.
+16) I dont fear death, but the fear of death itself
+17) I am reserved, quiet and shy until I am around people I feel are kind and non-judmental
+18) Who is anyone really? I am just a woman typing on a computer 
+19) I believe nature is healing. Touching the trees, the water, the soil is important for the human pyche.
+20) I am just a woman who practices science, tries her best to be a good person and live her best life.",26,Female,White,United States,United States,United States,English,No,Full-Time,English,"1) I am curious
+2) I am kind and generous
+3) I am empathetic towards others and always try to put myself in their shoes
+4) I am relatively in a young stage of life- still learning and growing
+5) I am self deprecating on my appearance - I am jealous of others
+6) I am a meat skeleton on a giant spinning rock in space.. yet I am anxious about public speaking
+7) I am a medical laboratory scientist - I read blood smears to look for cancers and other illnesses
+8) I am blonde
+9) I always get what i put my mind to
+10) I am loved
+11) I am not good at writing lists about myself
+12) I am spiritual towards the universe itself but I do not believe in a God of today's religions
+13) I am a tired soul just trying her best
+14) I am vegetarian - I love animals
+15) I am depressed
+16) I am unhealthy
+17) I have a poor memory
+18) I am privileged 
+19) I am a woman
+20) I am a thoughtful person who wants to do her best to make the people are her happy",28,Female,White,United States,United States,United States,English,No,Full-Time
+train_0106,I am an American who works hard to live a great life and enjoy the privilege that our government gives us.,30,Male,White,United States,United States,United States,English,No,Full-Time,English,"The person that I am is a family man, strong, hardworking individual that enjoys to live life and see everything that life has to offer for me.",32,Male,White,United States,United States,United States,English,,
+train_0107,A 70 year old retired female. Live with my Husband of 44 years.  We have 3 rescue dogs that we both adore.  We love where we live except for our extreme heat.,70,Female,White,United States,United States,United States,English,,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am 71.
+I am female.
+I am 5ft4inches tall.
+I am of Italian and Russian decent.
+I was born in USA.
+Dark hair and olive skin.
+Brown eyes
+Right arm hangs some due to a stroke.
+Slow walking 
+somewhat weak due to stroke.
+Very caring for humanity 
+very caring for animals",71,Female,White,United States,United States,United States,English,,
+train_0108,A woman. A wife. A mother. A friendly person. A caring person. I am smart. I am beautiful. I am driven. I want my family to be happy. I am a caregiver. I am in pain. I want to be healthy. I need order. I want freedom. I am worried about the future of this country. I Lear new things every day.,51,Female,Mixed,United States,United States,United States,English,No,,English,I am strong. I am a good woman. I am intelligent. I am dependable. I am kind. I am worthy of praise. I am fair. I love dogs. I am happily married. I am a mother. I am a grandmother. I help others. I am happy. I am a hard worker. I believe in God. I am an American who believes in border control. I am responsible. I am capable of complex creativity. I am a good friend. I am a person who is constantly improving.,52,Female,Mixed,United States,United States,United States,English,,
+train_0109,"I am that I am. 
+I am a Human Being.
+I am a man.
+I am gentle.
+I am fierce. 
+I am kind. 
+I am witty
+I am resilient.
+I am tenacious.
+I am caring. 
+I am strong.
+I am subtle.
+I am eternal. 
+I am wisdom.
+I am bliss.
+I am grateful.
+I am forgetful. 
+I am learning.
+I am growing.
+I am trying.",33,Male,White,United States,United States,United States,English,No,Full-Time,English,"I am timeless
+I am Loving Awareness
+I am without beginning
+I am with end
+I am all things
+I am nothing
+I am the universe
+I am the void
+I am the light
+I am the dark
+I am the buddha
+I am the christ
+I am the sunrise
+I am the sunset
+I am laughter
+I am sorrow 
+I am the sun
+I am the run
+I am that I am",34,Male,White,United States,United States,United States,English,,
+train_0110,"I am a nice person, a thoughtful person, creative, caring, smart, funny, friendly. I am a bit of a perfectionist, a neat freak…I like things a certain way. When it comes to cleaning and maintaining my home I’m high maintenance. When it comes to the rest I’m low maintenance. I can be sensitive at times but always loving , patient and willing to give someone the benefit of the doubt. I am hard working, like do it yourself projects, like learning new things. I’m also an excellent speller and great with grammar and punctuation.",56,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking),English,"I am human, I am flawed, I am female, I am smart, I am funny, I am a clean freak, I am creative, I am a huge animal lover, I am a daughter, I am a sister, I am an Aunt, I am a friend, I am a significant other, I am resourceful, I am organized, I am friendly, I am kind, I am hard working, I am fun, I am a home body, I am loved.",58,Female,White,United States,United States,United States,English,,
+train_0111,"I am a lawyer. I am a father. I am a husband. I have many hobbies that I love to take pardon I love motorcycles. I love my children. I am a Catholic and I love God. I am an American with conservative values. My favorite sport is hockey and my favorite team is the Washington Capitals. I live in Georgia, but I miss the water. I have a son and daughter that are my whole world. I love my wife and she is the love of my life. I love animals and own a large black dog. I live in the country and love that I can see the stars at night.",39,Male,White,United States,United States,United States,English,No,Full-Time,English,I am a father. I am a husband. I am a lawyer. I am someone who loves to laugh. I am resilient. I am self-assured. I am a dog owner. I am thankful for my life. I'm a hockey player. I am stubborn. I am a southerner. I am a good person. I am blessed in my life. I am a person who loves to learn. I am a son. I am a brother. I am an uncle. I enjoy dressing well. I appreciate good food. I am kind.,40,Male,White,United States,United States,United States,English,,
+train_0112,I am a Christian. I am a cancer survivor. I am a former Cancer counselor. I have owned my own business so I am an entrepreneur. I have many friends whom I cherish. I love music. I like traveling. I like see things in nature. I live in an RV. I believe a minimalistic life is best for me. I like doing things to help the environment. I like helping and being supportive to others needs. I like the calming effect of water-especially of ocean waves. I have a good sense of humor. I like to binge watch my favorite tv series. I like playing trivia games. I like walking and dancing for exercise. I have a wonderful husband. I support the military especially the Navy.  I have found life fulfilling without children-but love children.,59,Female,Other,United States,United States,United States,English,No,Part-Time,English,"I am a Christian. I am not a perfect Christian-just striving everyday to be better.
+ I am a former cancer survivor and this has lead me to be a cancer counselor for part of my life.
+I am a wife and try to be the best partner I can.
+I am a minimalist-I believe having less things affords more freedom. 
+I am a nature lover-I respect and admire all of god's living s things.
+ I am a recycler-I try to repurpose items, donate or put them in for recycling.
+I am a friend-I have empathy and caring towards others.
+I am a helper-I get great joy out of helping others in need.
+I am someone who feels comfortable giving medial advice based on my research and experiences.
+I am a traveler-I live full time in an RV and travel often.
+I am a cook-I love making home cooked meals nearly every day.
+I am a music lover and musician-I like all types of music and play drums and piano.
+I practice sustainability-try to purchase items that do not diminish resources.
+I am an organizer-I like for things to stay in their place.
+I am a cleaner-I do not like dirty surroundings.
+I am a bit of a germaphobe-I have a compromised immunity and am careful about getting ill.
+I have am someone who has a fear of heights.
+I am someone who does not like to take risks.
+I am a saver-I am frugal with my money.
+I am outgoing and like to talk with others.
+I am someone who tries to take care of their health.",60,Female,Other,United States,United States,United States,English,,
+train_0113,I am logical.  I am cold.  I am not empathetic.  I do like to help people.  I am intelligent.  I am linear.  I enjoy movies.  I enjoy books.  I do not like opera.  I respect peoples beliefs but don't bother trying to change their mind.  I don't care about other people's opinion about me.  I am overweight.  I am polite.  I take advantage of opportunities.  I do not take advantage of people.  I like rock music pre 1985.  I am heterosexual.  I like to analyze history.  I enjoy solving puzzles.  I like making money.,62,Male,White,United States,United States,United States,English,No,Full-Time,English,"I am a father
+I am a husband
+I am an analyst
+I am a leader
+I am calm
+I do not express my emotions
+I listen to different ideas
+I don't care what people think of me
+I prefer to be alone
+I think about things in different ways
+I am a traveler
+I am a reader
+I believe history can show us what is happening today
+I am rational
+I am a loner
+I help people where I can
+I am not trusting
+I am not empathetic
+I do not let emotions cloud my thinking or decisions",63,Male,White,United States,United States,United States,English,No,Full-Time
+train_0114,"I am a wife. I am a mother. I am a daughter, and I am a friend. I am someone who loves warm Chocolate cookies and rainy days. I love Rom-com and though I am a grown woman still enjoy the silly romance movies. I love to read, but rarely do because once I start a novel I read it to the end. I love going on the boat for a ride at dusk, the water is calm and it is beautiful. I love to travel and go to quirky spots. I am a dog level, though mine is barking as we speak. I am a researcher of all the latest products. I love to write, and wish I was also more artistic. I like to hear the birds tweet but not roosters crow at 5:00 AM. I like the idea of concerts but the reality of them is different, I hate crowds. I like to try new food dishes, but I do not like to cook them myself. I am social but like quiet time. I am a contradiction, cautious but don't mind driving fast now and then. I am organized, and I am responsible. I am funny, at least I think so.",55,Female,White,United States,United States,United States,English,No,Other,English,"Fun, honest, a wife, a mother, a sister, a daughter, organized, creative, a great cook, Lover of Movies and Books. Protector of people who are more vulnerable than I, a leader, a follower, a volunteer, someone who stands up when I see something wrong, a gardener, and warm hearted. Beliefs, and integrity, honesty are my pillar by what I stand by, a great friend and a planner.",57,Female,White,United States,United States,United States,English,No,Other
+train_0115,"I’m a husband, live in the Pacific Northwest with my partner and 4 year old dog. I am active in our church and enjoy walks in our neighborhood. I spend most of my free time on chores around the house, yard and cleaning up the neighborhood litter. I like to build things like sheds and outdoor furniture. I’m a LEGO enthusiast with a LEGO studio in the backyard. I work remote for a tech company based in Los Angeles.",52,Male,Asian,United States,United States,United States,English,No,Full-Time,English,"1. I'm an introvert that can be social when needed.
+2. I prefer one on one conversations over group settings.
+3. I feel a social interaction is most successful when I've helped the other person in some way.
+4. I've been told I am creative, yet in my job my ideas were always ignored.
+5. I'm semi-retired after 30 years in software.
+6. Dog person and not a cat person, but still like cat videos.
+7. Own a robot vacuum that we love.
+8. Have a sister who I can't figure out if she is annoyed by me or not.
+9. Like tinkering with cars.
+10. Keep a gratitude journal and wish I'd started it much sooner.
+11. Not so sure about my new doctor.
+12. Have a studio in the backyard dedicated to Lego.
+13. Have great neighbors except for Kevin.
+14. Share a fence with a neighbor who planted the wrong kind of bamboo at her fenceline and will be facing the consequences for decades.
+15. Laid myself off from a job where the leaders were toxic.
+16. Enjoy road trips.
+17. Like the driving aids in modern cars but don't want self-driving.
+18. Like TV shows so much I have over a dozen I've started but abandoned.
+19. Sad that new film trailers are no longer a big event.
+20. Like salty snacks too much.",54,Male,Asian,United States,United States,United States,English,,
+train_0116,I like computers.,55,Male,Mixed,United States,United States,United States,English,Yes,Part-Time,English,"I'm middle aged, tech savvy, smart, funny, good looking male. I enjoy food, fun, sex, and I play the drums. I'm also an animal lover. I have 3 cats, 2 dogs, a hamster, a ferret, and a parakeet. I enjoy solving complex problems with creative solutions. I have an AA degree in electronics engineering technology, and I can fix just about anything that can be fixed. That's about all I can think of at the moment. Thanks!",56,Male,Mixed,United States,United States,United States,English,Yes,Part-Time
+train_0117,"woman
+mother
+wife
+bookkeeper
+conversationalist
+friend
+a great cook
+a wonderful companion
+a daughter
+a sister
+i like to be a giver
+a great grandmother
+i love to read
+i like to be on top of the news
+a great shopper
+religious
+concerned about the environment
+kind
+courteous
+helpful
+giving",58,Female,White,Romania,United States,United States,English,No,Part-Time,English,"Wife
+Daughter
+Mother
+Sister 
+Grandmother 
+Thinker
+Writer 
+Composer
+Friend 
+Homemaker
+Teacher
+Confidant 
+Baker
+Chef
+Bookkeeper 
+Peacemaker",59,Female,White,Romania,United States,United States,English,,
+train_0118,"1. A confusing soul
+2. Someone who doesn't know what they want
+3. A walking contradiction
+4. Lover of history and learning
+5. A skeptic 
+6. Someone who is lonely 
+7. Someone who wishes for companionship
+8. Simple and complicated
+9. Boring to most, interesting to some
+10. Not sure
+11. I prefer the comforts of being alone but wants the love of others
+12. Someone who wants to be admired for doing the right thing
+13. A nerd
+14. A gamer
+15. Someone who places importance in identity
+16. Someone who is both clean and dirty
+17. Who I am, indeed
+18. I don't know
+19. A bookworm
+20. Someone who wants to do so much but is limited to so little",31,Male,White,United States,United States,United States,English,No,,English,"I am a mess.
+I am someone's everything and someone's nothing.
+I am the extra lego brick that didn't fit on the model.
+I am a history nerd.
+I am firmly against Trump and his ilk.
+I am empathetic at times, and highly judgmental at others. 
+I am sometimes a hypocrite and also hate hypocrisy in others. 
+I am average and unremarkable in most things. 
+I am chronically ill and am eternally grateful to have a roof over my head when many don't, while also believing it's a sad state of affairs when something as basic as housing is not a guaranteed right. 
+I am middle class and hate the obscenely rich who stole money off the labor of others. 
+I am but a small cog and have no real power in the world. 
+I am, however, in a position of power to those immediately around me. 
+I am stuck in life and don't see much radical change happening any time soon.
+I am complicated in certain ways and simple in others. 
+I am constantly listening to mid 2000s music from my childhood. 
+I am constantly playing video games in the same era, as if I am still a teenager. 
+I am extremely sensitive.
+I am weird.
+I am me.
+I am bicpentameter",32,Male,White,United States,United States,United States,English,No,
+train_0119,"I'm a male.
+I'm white.
+I'm in my 20s.
+I love technology.
+I play lots of video games.
+My favorite food is Tacos.
+I have 2 toddlers, a boy and girl.
+I live with my parents.
+My favorite music genre is Drum N' Bass.
+I'm kindhearted.
+I'm overweight and currently on a diet.
+I use Android for my smartphone.
+I like to take walks.
+I live in a trailer.
+I'm bisexual.
+I never had a job.
+I prefer simple clothes designs.
+I do graphic design for fun.
+I love watching animation and documentaries.
+I wish the world was a kinder place.",26,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"Male, Adult, Tech Nerd, EDM Enjoyer, Unemployed, Single, Video Game Player, Foodie, Reader, Autistic, Overweight, and I honestly can't think of any more.",28,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0120,"I am 55 years old. 
+I am a woman.
+I am an American
+I am a wife.
+I am a daughter.
+I am a pet owner.
+I am intelligent.
+I am a worker.
+I have a masters degree.
+I live in Tennessee.
+I like to garden.
+I am white.
+I like to read.
+I enjoy spending time with my dog.
+I am a manager
+I am loyal.
+I am on a diet.
+I am a good friend.
+I am considerate of others.
+I am Generation X.",55,Female,White,United States,United States,United States,English,,Full-Time,English,"I am a wife
+I am a daughter
+I am an employee
+I am a white female
+I am a college graduate
+I am a overweight person
+I am a sensitive person
+I am a gardener
+I am a dog lover
+I am a film buff
+I am a reader
+I am a friendly person
+I am a lazy person
+I am a funny person
+I am a researcher
+I am a hard worker
+I am a person who is sometimes depressed
+I am a older person
+I am a lover of peanut butter
+I am a person with migraines.",57,Female,White,United States,United States,United States,English,No,Full-Time
+train_0121,"I am a man.
+I am a good friend.
+I am a cook.
+I am a good brother.
+I am a good son.
+I am a loyal person.
+I am a friendly person.
+I am a dog lover.
+I am a fast typist.
+I am reliable.
+I sometimes lose my temper.
+I am a bit of a hothead when I feel someone is taking advantage of me.
+I make very good mac and cheese.
+I am fun at parties.
+These last few months, I have become a teetotaler.
+I rarely engage in any drug.
+I am always willing to designated drive.
+I will come through for my friends whenever I am needed.
+I am always available to talk to people who want to talk.
+I give good advice.",37,Male,White,United States,United States,United States,English,,,English,"I am a kind person.
+I am a thoughtful person.
+I care very much about my friends.
+I care very much about my family.
+I love to write.
+I love to read.
+I am a big fan of theme parks.
+I am a big fan of rollercoasters.
+I am a hard worker.
+I am a protective friend.
+I am someone who loves to make people feel better.
+I am always concerned about others.
+I am very unselfish when it comes to many things.
+I am into fitness, a lot.
+I like playing video games, especially social ones.
+I am a perpetual jokester.
+I am a terrific listener.
+I am a good public speaker.
+I am a good leader.
+I am a great son.",39,Male,White,United States,United States,United States,English,No,Full-Time
+train_0122,I am a reader and an animal lover. I am an older woman who dislikes shopping and hence looks frumpy. I am a person who goes barefoot outside a lot. I am pretty reserved and do not make friends easily.,59,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I'm an only child, I am a Christian, I am an animal lover, I am a reader, I am a woman, I am a wife, I am a lover of poetry, I am a lover of science fiction books, I am a lover of folk music, I am a cousin, I am a friend. I am a lover of the outdoors. I am a dog owner, I am person who raises chickens, I am a good cook, I am a gamer, I am a writer, I am a lover of word problems, I am a lover of jokes.",60,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0123,This is but a very short list of who I am: (1) I am (2) I am you (3) I am street (4) I am evil (5) I am good (6) I am a soul (7) I am darkness (8) I am light (9) I am the boundless universes. (10) I am dark matter (11) I am an animal (12) I am a child (13) I am a servant (14) I am alone (15) I am everything (16) I am fear (17) I am love (18) I am the cosmos (19) I am female (20) I am male.,60,Male,Other,United States,United States,United States,English,No,Full-Time,English,"Many would call me a loner, I am not. I am independent...I don't seek validation, I provide my own. I could live on earth alone and never, ever become lonely. I am a great friend, especial to myself. I am a herd worker, my effort usually begins where others' end. I am what many call quiet, but I am not, I don't see a need in talking unless I'm saying something worth listening to. I have a double dose of introversion, both my parents are introverts. I love people, but only those who are authentic. I am brutally honest, it is almost impossible for me to lie. I am one who sees the world as I am, not how it/they are. More than anything else, I am one who has gratitude. I am athletic, I am an alcoholic, I was raised in a neighborhood so notorious, that most have never heard of it; not many of us get out to talk about it. I am a New Yorker.",61,Male,Other,United States,United States,United States,English,No,Other
+train_0124,"I am:
+Latino
+Guatemalan
+A College Student
+A hard worker
+Oldest Sibling",20,Male,Other,United States,United States,United States,English,Yes,Full-Time,"Spanish, English","I am a Guatemalan specifically from chivarreto and I am a male 21. I am also a guy interested in learning javascript and other type of web development, so far I have been learning for over a year. I like to play chess for fun and sports like soccer. I am an active 21 year who loves going outside and in general just love being active and I also like to stay fit. I started Calisthenics and so far I have loved it. Also prefer music that's very energetic and fast paced. I lover to constantly improve my self in things like being more religious becoming stronger and faster. I myself love to game to chill I also love to sleep a lot when I'm at home tho I love to be hard working and earn as much as I can.",21,Male,Other,United States,United States,United States,English,,
+train_0125,"Teacher
+Mother
+Driver
+Bundle of anxiety
+Fearful
+Tame
+Hurt
+Betrayed
+Lonely
+Sad
+Pathetic
+Depressed
+On the struggle bus
+Lazy
+Unmotivated
+Stressed
+Reserved
+Without purpose
+Meaningless
+Unworthy",43,Female,White,United States,United States,United States,English,No,Full-Time,English,I am a deeply flawed human.  I accept less than I deserve in almost every area of my life because deep down I don't know if I truly am worthy of anything better.  I am a person that lacks the self-confidence to take risks that may improve my life and mental health.  I'm so afraid of change that I keep trudging down a path that truly doesn't suit me.,44,Female,White,United States,United States,United States,English,No,Full-Time
+train_0126,"I am African American, I am short, I am kind, I am broke, I am beautiful, I am tired, I am a woman, I am marvelous, I am unique, I am a breath of fresh air, I am peaceful, I am thirsty, I am awake, I am wealthy",55,Female,Other,United States,United States,United States,English,No,Part-Time,English,"older adult, single, indigenous, smart, entrepreneur, short, woman, fun, introvert, inviting, independent, love movies, gamble, love shooping,",57,Female,Other,United States,United States,United States,English,,
+train_0127,"Woman, wife, mother, sister, daughter, aunt, grandmother, friend.
+Originalist, online worker, Christian, American.
+Head cook, dishwasher, maid. Conscientious worker.
+Seeker of Truth, Peace maker.
+Introvert. Gamer.",66,Female,White,United States,United States,United States,English,,Other,English,"Mother, wife, daughter, sister, cousin, friend. 
+American, Christian. 
+Elderly, disabled. 
+Spiritual. A searcher of truth. 
+A child of God. 
+Pet owner. 
+A lover of classical music. 
+College graduate. 
+Artist. 
+History lover. 
+Chief cook and bottle washer. 
+Inquisitive person.",67,Female,White,United States,United States,United States,English,,
+train_0128,"'-I am an older woman. 
+-I have long wavy red hair.
+-My eyes are hazel and have an almond shape.
+-My lips are thin and chapped from spending a lot of my time outside. 
+-There is a slight hitch in my step because of an old hip injury. 
+-I was a very active young woman.
+-Often seeking out adrenaline inducing activities like sky diving, surfing and any kind of roller coaster.
+-My teeth are crooked
+-I have a large birthmark.
+-I wear overalls.
+-I garden.
+-My parents have both passed.
+-I have children and grandchildren. 
+-I am a survivor
+-I love people
+-I have a mole on my nose
+-I believe in love
+-I am kind
+-I have a belly
+-i make music",45,Female,White,United States,United States,United States,English,No,Part-Time,English,"I'm kind, compassionate, strong willed, motivated, thoughtful, stubborn, opinionated, funny, social, an ambivert, creative, critical, weird, loud, lazy, patient, confident, curious, nosey, and beautiful.",47,Female,Mixed,United States,United States,United States,,,
+train_0129,I am creative. I am honest. I am fun to be around. I am thoughtful. I am a good listener. I am a Christian. I am quiet. I am soulful. I am kind. I am social conscious. I am content. I am talented. I am a gardener. I am someone who likes to cook and bake.,60,Female,White,United States,United States,Italy,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am strong, caring, loving, understanding, thoughtful, unique, loyal, competent, creative, warm, bright, good listener, funny, logical, faithful, a leader, a teacher, a grandmother, a mother, and a wife.",61,Female,White,United States,United States,Italy,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0130,"A person, a man, a son, a husband, a brother, a friend, a neighbor, a lover,  a helper, a Democrat, an American, a citizen, a hiker, a biker, an intellectual, a foodie, a nudie, a swimmer, a reader, a leader,",68,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I am a man.
+I am a senior citizen.
+I am a husband.
+I am a brother.
+I am a son.
+I am a nephew.
+I am a grandson.
+I am a neighbor. 
+I am heterosexual. 
+I am hilarious.
+I am caring. 
+I love sex. 
+I love nature.
+I love music. 
+I am helpful.
+I am hard working. 
+I love nature.
+II live being outdoors in cool weather. 
+I am a liberal.
+I don't tolerate bullshit and stupidity.",69,Male,White,United States,United States,United States,English,,
+train_0131,"I am a woman. I teach history at various community colleges. I have lived in the same relative area most of my life. I love to travel and visit new places. I also like to learn languages. I like to dance but I am not very good at it. I used to run a lot but now that that is more difficult I look to other sports like cycling and hiking. I like to cook. But, I like that mostly because I love to eat. I like to read. I also spend some time steaming movies and shows. I like to discuss movies and shows with friends. I like to spend time with friends and family doing whatever. I am somewhat introverted, but a friendly one who just needs some space sometimes. I like to be challenged in an intellectual way. I like the arts, visits to museums or symphonies. I have a fear of snakes. I am not afraid of spiders, like many people. I wish I made more money. I enjoy my morning coffee time. I am also now someone who is going through divorce.",55,Female,White,United States,United States,United States,English,,,English,"I am a woman, I am a teacher, I teach history, I am separated, I am getting a divorce, I like to be outdoors.  I like to travel, I like to be on vacation. I used to be a runner, I could be neater, I like to cook. I like to eat food, I like to watch tv, I like to stream and binge shows. I love my dog. I also tutor kids and find it rewarding. I am usually well-dressed. I am emotionally unavailable, I believe in justice. I like to read.",56,Female,White,United States,United States,United States,English,,
+train_0132,"I am a son 
+A guitarist 
+A need 
+A computer lover 
+Obsessed with movies
+In love with youtube
+Own 2 cats 
+Have my own house 
+Have my own car 
+Have a job Have a bank account 
+I love guns
+Am a pc gamer 
+I kive all Animals 
+Am a delivery driver 
+I am a kind person
+Have a sister 
+Love my parents
+Am honest
+Always loyal
+I need to lose weight",37,Male,White,United States,United States,United States,English,No,Full-Time,English,"Im honest ... nice ... helpful
+Kind try to be brave 
+Can be very willful
+I play an instrument 
+Love music 
+Love tech
+Enjoy computers
+Very agreeable 
+Hate arguments 
+Just enjoy being around and talking to other people",38,Male,White,United States,United States,United States,English,,
+train_0133,"I am smart, funny, resourceful, loved as well as a son, brother and friend. I am also a proud black man who is from the south, Whose a life long love of professional wrestling, music lover and other things. Who at times overanalyzes things but can make it relatable to anyone. People feel comfortable enough to tell me their hopes, dreams and problems. I was a an educator and now a businessman. Who is fairly educated,",46,Male,Black,United States,United States,United States,English,No,Part-Time,English,"I am a strong, unique, smart, witty, adored by few. I have always stood on business. A person whi s straight with no chaser personality wise.  Many would say that I am kind and patient to kids and elders. I live by a moral code. I am a fan of the dolphin, brave and gooner. I have little tolernce for uncleanliness including mst and bad breath. I believe if you c an ask me for a dollar, you can say welcome to wamart. I am a son and a brother but not a father.",47,Male,Black,United States,United States,United States,English,,Other
+train_0134,"I am a good cook. I am a talented painter. I am a talented writer. I like to play videogames. I enjoy studying history. I am deeply religious. I am disgusted my immoral acts. I view life as short, but our impact is felt forever. I am a talented drawer. I tend to imagine a better life. I am generous. I have a high IQ. I have tetrachromacy. I love animals. I hate abusive people. I am a day dreamer. I am an alcoholic. I have panic disorder. Despite having panic disorder, I can remain calm in hectic situations. I tend to over share and make a fool out of myself. I don't underestimate people and treat them all as if they are as knowledgeable as me. I suffer from depression.",39,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking),English,"I am a man, I am a brother, I am a son, I am an uncle, I am a gamer, I am a gladiator in World of Warcraft, I am a cat owner, I am a friend, I am a good cook, I am a talented writer, I am an artist, I am good with electronics, I am a Christian, I am a good listener, I am good at holding a conversation, I am knowledgeable about biology, I am interested in conspiracy theories, I am a millennial, I am comedy fan, I am a amateur historian.",40,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+train_0135,"i am down to earth person
+ Love  to read
+Love to cook
+Family oriented
+Goal oriented
+Organized
+Ethical
+Not a leader but will take charge after thing has been decided
+Open minded
+Trustworthy
+Vibrant love color and nature
+Love the outdoors
+Love gardening
+helping others
+patient  
+Supportive
+Optimistic
+Sociable
+Self-reliant
+Easy Going",63,Female,Other,Mauritius,United States,United States,French,No,Unemployed (and job seeking),English,"I am  a female , daughter, wife friend and most of all a mother
+God is a big part of my life an belief
+love outdoor and gardening
+Love travelling and discovering new thing
+Amoteur photographer
+Interested in history
+Love learning new thing
+Adventurer but not risk taker
+Try new cuisine 
+love cooking but not cleaning
+Very compasionate
+Embrace changes and new thing
+My childrend are my main focus
+Family are very important to me
+My life is a journey
+Am still learning new thing everyday
+Does not settle for less
+Culture is very important even though I live outside my birth country for more than 40 years
+Helping others feel right thing to do
+I give my all and does not expect anything in return",64,Female,Other,Mauritius,United States,United States,French,,
+train_0136,"I am a God-fearing woman who has been through many different lives yet has so much to experience in life still. I am a woman who is full of the essence of joy, hope, peace, and love that GOD has ordained her to have fully flawed but even more forgiven, blessed, sanctified, glorified, saved by grace, loved, renewed, empowered, restored, the head and not the tail, redeemed, healed and most of all I can do all things through Christ who gives me strength.",35,Female,Black,United States,United States,United States,English,No,,English,"Ambiitios, God-fearing, loving, passionate, intuitive, mindful, thoughtful, overthinker, brave, confident, assured, childlike, funny, adventurous, athletic, creative, joyful, expansive, daydreamer, goal-oriented.",36,Female,Black,United States,United States,United States,English,No,Full-Time
+train_0137,"1. I am a feminine
+2. I am alone
+3. I am someone who sees everyone but no one sees me.
+4. I am a creative.
+5. I am a masculine.
+6. I am an Infj.
+7. I am human, but rarely feel human.
+8. I am a body.
+9. I am a slave to the corporations.
+10. I am not free to live how I want to live.
+11. I am tired all the time.
+12. I am broken.
+13. I am a brain.
+14. I am a thought, projection in life that is nothing more than ego.
+15. I am cells.
+16. I am a writer.
+17. I am complicated and simple all at the same time.
+18. I am light and dark.
+19. I am nothing and everything.
+20. I am love and hate.",34,Male,Mixed,United States,United States,United States,English,,,English,I am a man. I am demi sexual. I am bisexual. I am Hispanic. I am loyal. I am creative. I am an artist. I am a good friend. I am a cat owner. I am middle aged. I am a cancer survivor. I am a renter. I am an American. I am dark haired. I am darker skinned. I am thick skinned. I am a partner. I am a good worker. I am a lover of books. I am a gamer. I am sensitive. I am emotional. I am brave.,36,Male,Mixed,United States,United States,United States,English,,
+train_0138,"I am a man
+motivate
+christian
+loyal
+american
+blonde
+happy
+workaholic
+funny
+orderly
+naet freak
+smart
+busy
+loving
+caring
+healthy
+energetic
+loner
+enthusiastic",48,Male,White,United States,United States,United States,English,No,Full-Time,English,"i am a man
+ii am 49
+i am white
+i have blonde hair
+i am underwieght
+i have green eyes
+i am 5'7
+i am european descent
+i am heterosexual
+i am catholic
+i am happy
+i am confident
+i am patient
+i am dependable
+i am smart
+i am energetic
+i am capable
+i am confident
+i am moral
+i am prdjudice",49,Male,White,United States,United States,United States,English,No,Full-Time
+train_0139,I am an honest woman.  I am loyal to those that deserve loyalty.  I have integrity.  I have values.  I have morals.  I have a dry sense of humor.  I believe in being fair.  I defend those that need defending.  I love animals.  I am protective.  I am laid-back.  I am funny.  I am intelligent.  I am resilient.  I am flexible.  I am an introvert.  I am sensitive.  I am caring.  I am calm.  I am stable.,59,Female,White,United States,United States,United States,English,,Full-Time,English,Who am I?  I am a female.  I am honest.  I am courageous.  I am resilient.  I am tenacious.  I am resourceful.  I am loyal.  I am creative.  I am empathetic.  I am curious.  I am warm.  I am soft-hearted.  I have strong boundaries.  I LOVE animals.  I am funny.  I can be serious.  I own my own home.  I live alone.  I like to work outside and mow the grass.  I like to fix things.  I like to use my chainsaw.  I love helping other people.  I like to cook.  I like to try new technology.  I love to be outside.  I love thunderstorms.,61,Female,White,United States,United States,United States,English,,
+train_0140,"parent
+writer
+editor
+queer
+kind
+Democrat
+thankful
+man
+son
+uncle
+bright
+sensitive",67,Male,White,United States,United States,United States,English,No,Other,English,I am a retired professional. I have a graduate degree. I am divorced. I am a parent. I am gay. I live in the South. I am healthy. I am  a Democrat. I am liberal. I am middle class.,69,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0141,"I am a woman.
+I am 60 years old.
+I am fairly intelligent.
+I am spiritual but not religious.
+I love cats.
+I do not like dogs.
+I always want to lose weight.
+I like to cook.
+I am handy.
+I love DIY projects.
+I am fairly patience.
+I do not sweat the small stuff.
+I like to take road trips.
+I feel younger than I am mentally.
+I prefer traditional ways and gender roles
+I do not understand today's music and why it is popular.
+I hate thumping cars.
+I have no grandchildren.
+I would love to retire.
+I wish I had more money.",60,Female,White,United States,United States,United States,English,No,Full-Time,English,"a woman
+a baby boomer
+smart
+in pain all the time
+active
+interesting
+a hobbyist
+in love
+happy
+driven
+ambitious
+curious
+always learning
+normal stature
+a bit overweight
+working full time
+someone who could save more",61,Female,White,United States,United States,United States,English,,
+train_0142,"Christian. Native Californian. Six years of college. Systems and technology career. Specialist in project management. Worked at multiple pharmaceutical companies in IT departments. Worked in high tech companies. 25 years in Silicon Valley. Fourth generation Californian. Love the ocean. Live near a river. Moved to a small rural town when I retired. Follow the NFL and Formula 1. Drive a BMW 540i. Like gardening. Especially fond of my trees and the birds that live in them. Mother trained me to be a good cook, but now I mostly microwave. Now working in water color and oil painting. Spend spare time reading. Like mysteries, code-breaking history, and PG Wodehouse.",77,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"I'm a Christian. Woman 78 years old. College graduate, studying Journalism, Business Administration, and Systems Management. I started my career as a writer working for corporations.  When computers started becoming available in the workplace, my new careers choice was clear -- programming, systems analysis, database design, and project management. I've lived in California all my life. I enjoy reading mysteries and exploring subjects such as the history of codebreakers of Bletchley Park. I enjoy gardening and started a hummingbird-friendly section this year. LIke to watch NFL games and F1 races. After retiring from Silicon Valley's fun and challenges, I took up painting, first in watercolor then in oils.",78,Female,White,United States,United States,United States,English,,
+train_0143,"I am a woman and I am young. I was born and raised on the east coast of America and am currently enrolled in university to receive my undergraduate degree. i was raised by a single mom and my aunt, and I have one older brother. i have some hobbies such as reading and knitting which take up all of the time that isn't allotted for school work. i am going to graduate next year and hope to find a job in an interior design field and, one day, wish to have my own firm. my favorite season is winter and my favorite holiday is christmas even though i am not a religious person and didn't grow up practicing any religions. i come from an italian and nigerian background.",20,Female,Mixed,United States,United States,United States,English,Yes,Unemployed (and job seeking),English,"i am a woman
+i am mixed race
+i am young
+i was born in the united states
+i am a first generation immigrant
+i am the child of a single mother
+i am a college graduate
+i am unemployed
+i am a cat-owner
+i am a knitter
+i am a book-lover
+i am not popular
+i am skinny
+i am average height
+i am quiet
+i am shy
+i am nervous
+i am capable
+i am an introvert
+i am intelligent",22,Female,Mixed,United States,United States,United States,English,,
+train_0144,"I am a daughter, friend and sibling.
+I am a nurturer, a care-giver
+I am a worker and citizen
+
+I am an emotional being of high peaks and low valleys
+I am a wordsmith dedicated to the absurd, the timeless and poetic
+I am a creature of comfort, lazy and  sybaritic
+
+I am an old woman, creaky and full of woes
+I am an appreciative Earth-dweller, eagerly drinking in blues and greens
+I am a hugger and talker, a text-sender and lifter-upper
+
+I am a lover of dragons , mythos, small cats and dumb puns.
+I am the shameless bottomless pit of wating that yearns for the last piece of pizza and the last drop of hope when all things look bleak
+I am a sentamentalist, a drama-queen and a crier
+
+I am a worrywart, a brooder and a hoverer,
+I am that person that both quits and starts easily and slowly. I am both obsessive and nonchalant, living in utter chaos
+or total quiet, calm and serenity.
+
+ I am the racer that  does best under pressure, the ship that perfers to set its own course and the mountaineer that
+prefers to set their own bar. 
+I am the one that believes and trusts all or believes and trusts nothing, that loves all humanity or eschews the same. 
+
+I am a very little girl and a very old crone.
+I am a thing as simple as dirt and as complicated as DNA.",59,Female,White,United States,United States,United States,English,,Full-Time,"English, Spanish","A female, an Earthling, travelor, sceptic, believer, dreamer, doer, healer, destroyer, caregiver, civilized being, chaos inducer, slob, neatnick, old woman, adolescent, child, heterosexual, asexual, bisexual.",61,Female,White,United States,United States,United States,English,,
+train_0145,"I am a loyal friend
+I am a trusted neighbor
+I am a respected teacher
+I am a beloved grandmother
+I am a lover of music
+I am a lover of art
+I am a devoted pet parent
+I am a spiritual person
+I am a dedicated partner
+I am an enthusiastic hiker
+I am a lover of nature
+I am a happy person
+I am a relaxed person
+I am a responsible citizen
+I am a casual dresser
+I am a lover of food
+I am a proud Hispanic
+I am a forgiving soul 
+I am someone who will hold you accountable
+I am the one person who will not forget about you",70,Female,Mixed,United States,United States,United States,Spanish,No,"Not in paid work (e.g. homemaker', 'retired or disabled)","English, Spanish","I am a woman 
+I am a mother
+I am a grandmother
+I am a friend
+I am a neighbor
+I am a college graduate
+I am a former teacher
+I am Hispanic 
+I am an American citizen
+I am a resident of Texas
+I am horrified with the current administration of our country
+I am in fear for our democracy
+I am beyond distressed with the Republican party
+I am employed full-time
+I am not ready to retire
+I am able to take care of myself
+I am descended from immigrants 
+I am horrified at what is being done to immigrants 
+I am hopeful that we, as a country, will survive this horrific time 
+I am spiritual but not religious",71,Female,Mixed,United States,United States,United States,Spanish,No,Full-Time
+train_0146,"I am a caring person. I love people. I have low self esteem. I don't feel I have any close friends. I am a hard worker. I am a child of God. I like doing things outdoors. I like golf. I like to read spy novels. I like women of all shapes and sizes. I like women with great senses of humor. I am a proud father of one daughter. I am one of four children. I only have one brother left alive. I am divorced. I like fishing. I like to listen to good preachers. I like gospel music, I like oldies rock and roll. I like a good comedy movie.",72,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",English,"Christian, lonely, sometimes happy, father, brother, helper, worker,",73,Male,White,United States,United States,United States,English,No,Part-Time
+train_0147,"i am a woman, a mother, a wife, a grandmother, a teacher, a scholar,a high priestess, a friend to most, and an enemy to few.  
+i have 2 perfect ladies that I birthed and my eldest has given me a beautiful little red headed granddaughter.  My youngest daughter is about to finish college a year early and has outright owned her own home for a year now.  I am proud.
+Me and the love of my life have been happily married for 3 years now, it took half a life time to find him but I knew the moment I first laid eyes on him that we had been together before so through so many life times.  
+I am a scholar of the Great Mysteries and have been for 31 years; I am a high priestess of the craft.  This is not my religion, or just my spiritual path, it is who I am.  I was born this way.  I am an empath...no I mean a true empath.  I can stand beside a complete stranger and know what emotions they are experiencing.  This is especially trying in crowds; like the grocery store, or super market.  I wear a veil; a head covering to filter what I pick up.  It gets confusing because the people I am closest to sometimes gets overwhelmingly emotional and I have a difficult time distinguishing their emotions from my own.  So humorously at times I am mad and do not know why, or unfortunately sad and not know why.  I am also an INTJ which means that I have difficulty with my own emotions but the universe has jokes.
+All and all I am a happy, blessed woman.",45,Female,Other,United States,United States,United States,English,No,Unemployed (and job seeking),English,"I am a middle aged woman of various decent. I have practiced magick for 35 years, beginning at the age of 13. I have a very eclectic life philosophy along with an eclectic array of interest. I love anything to do with space and I am a citizen scientist with NASA. I also love quantum physics and believe there is a coalition between what we call magick and the quantum realm. My spiritual views and beliefs are my way of life; I do not just practice witchcraft, I live it. I am married on my 5th husband. And I have 2 daughters that are grown and one granddaughter. I have 4 very close female friends that are my family and I am a lover of chihuahuas. My fur baby's name is pepper and she is a ham.",46,Female,Other,United States,United States,United States,English,No,Unemployed (and job seeking)
+train_0148,"I am a man
+I am a husband
+I am a father
+I am a son
+I am a brother
+I am south Asian
+I am a person of color
+I am an engineer
+I am a professional with over 30 years of experience
+I am confident
+I am skilled at what I do
+I am compassionate
+I am patient
+I am dependable
+I am trustworthy",66,Male,Asian,India,United States,United States,Tamil,No,Part-Time,"English, Hindi, Tamil","I am a man
+I am married
+I am a US citizen
+I am south Asian
+I am Indian by birth
+I am a husband
+I am a father
+I am a bother
+I am recently retired
+I care about my community
+I want to be useful until the day I die
+I ama volunteer
+I feel my talents and experience can be put to better use
+I try to find the activity that best utilizes my talents and experience
+I am a good fried
+I am dependable
+I am trustworthy
+I am kind to others
+I keep a smile on",67,Male,Asian,India,United States,United States,Tamil,,
+train_0149,"I'm a 63 year old divorced woman who is currently living with my daughter and two grandchildren.   I'm not very outspoken or outgoing and I prefer the quiet peace of being alone for most of the day.   After my Mom died, I cared for my dad for 12 years before he passed.  I like to think I'm nuturing, loving, and caring.",63,Female,White,United States,United States,United States,English,No,Part-Time,English,"grandma, mom, friend, sister, niece, aunt, cousin, dependable, secretive, shy, self conscious, caretaker, confidant, neighbor, driver, cook, gardener, quilt maker, planner, worker",64,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+train_0150,"First and foremost, and most importantly, I am a sinner saved by grace by the finished work on the cross by Jesus, son of the living God, to which I am thankful!  I am a mother.  I am a sister.  I am a daughter.  I am a friend.  I am a positive person.  I am happy and sometimes, down right giddy.  I enjoy God made scenery.  I have a cat.  I enjoy smiling and laughing.  I like to make people laugh.  Sometimes, I'm not that funny, yet I still try to bring a smile to others.  I like to eat fairly healthy, fresh meat, veggies and fruit.  I love dark chocolate and nuts.  I work full time.  I am a library media specialist and a tech coordinator.  I would like to move close to my extended family.  I adore my daughter and so proud of her.  I enjoy going to church.  I enjoy reading.  I enjoy beautiful music.  I love to learn.  I enjoy clean movies.  I enjoy friends.",61,Female,White,United States,United States,United States,English,No,Full-Time,English,"1 - I was created by an all powerful God
+2 - I was saved by the blood of Jesus and my acceptance of His finished work on the cross for my sins
+3 - I am a mother
+4 - I am a daughter
+5 - I am a sister
+6 - I am an aunt
+7 - I am a friend
+8 - I am an educator
+9 - I am happy
+10 - I am positive
+11 - I have hope in Jesus
+12 - I am kind
+13 - I am helpful
+14 - I am classy (ha ... welllllll .....)
+15 - I am fearfully and wonderfully made
+16 - I am a reader and I enjoy music
+17 - I am a sharer of enthusiasm and positivity
+18 - I love to laugh and see the humor and joy in life (especially to laugh at myself)
+19 - I am a sinner saved by Grace
+20 - I am redeemed
+21 - I am neighborly
+22 - I am an encourager
+23 - I have the JOY of the Lord
+24 - We have a cat (or he has us?)
+25 - I am over 40",62,Female,White,United States,United States,United States,English,No,Full-Time
